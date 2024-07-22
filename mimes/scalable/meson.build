@@ -6,6 +6,7 @@ regular_files = [
     'application-epub+zip.svg',
     'application-illustrator.svg',
     'application-json.svg',
+    'application-mathematica.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',
@@ -18,6 +19,7 @@ regular_files = [
     'application-vnd.comicbook+zip.svg',
     'application-vnd.flatpak.svg',
     'application-vnd.iccprofile.svg',
+    'application-vnd.scribus.svg',
     'application-vnd.snap.svg',
     'application-x-adobe-indesign.svg',
     'application-x-audacity-project.svg',
@@ -173,6 +175,11 @@ link_files = {
         'gnome-mime-text-x-makefile.svg',
         'text-x-cmake.svg',
     ],
+    'application-x-yaml.svg': [
+        'application-yaml.svg',
+        'text-x-yaml.svg',
+        'text-yaml.svg',
+    ],
     'application-x-xopp.svg': [
         'application-x-xopt.svg',
         'gnome-mime-application-x-xopp.svg',
@@ -267,13 +274,6 @@ link_files = {
     'application-x-audacity-project.svg': [
         'application-x-audacity-project+sqlite3.svg',
     ],
-    'application-x-cd-image.svg': [
-        'application-vnd.squashfs.svg',
-        'application-x-apple-diskimage.svg',
-        'application-x-raw-disk-image.svg',
-        'gnome-mime-application-x-nero-disk-image.svg',
-        'nero-disk-image.svg',
-    ],
     'oasis-text-template.svg': [
         'application-vnd.oasis.opendocument.text-template.svg',
         'libreoffice-oasis-text-template.svg',
@@ -345,6 +345,19 @@ link_files = {
         'libreoffice-oasis-text.svg',
         'libreoffice-text.svg',
         'openoffice4-oasis-text.svg',
+    ],
+    'application-x-cd-image.svg': [
+        'application-vnd.efi.img.svg',
+        'application-vnd.efi.iso.svg',
+        'application-vnd.squashfs.svg',
+        'application-x-apple-diskimage.svg',
+        'application-x-compressed-iso.svg',
+        'application-x-iso.svg',
+        'application-x-raw-disk-image-xz-compressed.svg',
+        'application-x-raw-disk-image.svg',
+        'application-x-raw-floppy-disk-image.svg',
+        'gnome-mime-application-x-nero-disk-image.svg',
+        'nero-disk-image.svg',
     ],
     'application-x-deb.svg': [
         'application-vnd.debian.binary-package.svg',
