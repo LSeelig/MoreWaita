@@ -1,4 +1,7 @@
 # MoreWaita
+> [!NOTE]
+> v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
+
 An Adwaita styled companion icon theme with extra icons for popular apps to fit with Gnome Shell's original icons.  
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
 
@@ -86,6 +89,7 @@ If your app's `.desktop` file references an icon name not present in MoreWaita's
 
 ## The icons
 _These screenshots show icons currently in git, versioned releases may be behind_
-![apps](https://github.com/somepaulo/MoreWaita/assets/15643750/b5800d54-51d0-448e-93b1-b7b6bd49584e)
-![mimes](https://github.com/somepaulo/MoreWaita/assets/15643750/5dd03a63-2682-46dd-b13d-19f74c7cca07)
-![places](https://github.com/somepaulo/MoreWaita/assets/15643750/81c65814-6746-49c5-a486-6da6a84d0ab4)
+
+![apps](https://github.com/user-attachments/assets/6abe100f-15cb-4a61-83ee-fb3cbd76f803)
+![mimes](https://github.com/user-attachments/assets/2fabef69-0c0c-406d-8ae1-7c9b7cea02d9)
+![places](https://github.com/user-attachments/assets/453458f3-04a4-4e23-a219-8abc21dcf12e)

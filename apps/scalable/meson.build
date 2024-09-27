@@ -122,6 +122,7 @@ regular_files = [
     'libreoffice-math.svg',
     'libreoffice-startcenter.svg',
     'libreoffice-writer.svg',
+    'librewolf.svg',
     'liferea.svg',
     'linguist.svg',
     'lvim.svg',
@@ -231,13 +232,16 @@ regular_files = [
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
-    'zotero.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'protonvpn-gui.svg': [
+        'com.protonvpn.www.svg',
+        'protonvpn-logo.svg',
+    ],
     'libreoffice-startcenter.svg': [
         'libreoffice-main.svg',
         'libreoffice4.2-startcenter.svg',
@@ -332,6 +336,9 @@ link_files = {
         'qtconfig-qt6.svg',
         'qtconfig.svg',
     ],
+    'protonvpn-logo.svg': [
+        'proton-vpn-logo.svg',
+    ],
     'popcorntime.svg': [
         'popcorn-time.svg',
         'popcorntime-ru.svg',
@@ -342,9 +349,6 @@ link_files = {
     'pamac.svg': [
         'pamac-manager.svg',
         'pamac-updater.svg',
-    ],
-    'zotero.svg': [
-        'org.zotero.Zotero.svg',
     ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',
@@ -827,10 +831,6 @@ link_files = {
     'rawtherapee.svg': [
         'com.rawtherapee.RawTherapee.svg',
     ],
-    'protonvpn-gui.svg': [
-        'com.protonvpn.www.svg',
-        'protonvpn-logo.svg',
-    ],
     'minecraft.svg': [
         'com.mojang.Minecraft.svg',
         'lutris_minecraft.svg',
@@ -1087,6 +1087,11 @@ link_files = {
     'obsidian.svg': [
         'appimagekit-obsidian.svg',
         'md.obsidian.Obsidian.svg',
+    ],
+    'librewolf.svg': [
+        'appimagekit-librewolf.svg',
+        'io.gitlab.LibreWolf.svg',
+        'io.gitlab.librewolf-community.svg',
     ],
     'kitty.svg': [
         'appimagekit-kitty.svg',
