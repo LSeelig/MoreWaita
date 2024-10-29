@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="16px" viewBox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <filter id="a" height="100%" width="100%" x="0%" y="0%">
+        <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <clipPath id="b">
+        <path d="m 0 0 h 16 v 16 h -16 z m 0 0"/>
+    </clipPath>
+    <mask id="c">
+        <g filter="url(#a)">
+            <image height="152" transform="matrix(1 0 0 1 -168 -16)" width="192" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAACYCAYAAACyAeadAAAABmJLR0QA/wD/AP+gvaeTAAAAiElEQVR4nO3BMQEAAADCoPVP7WsIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAPIpwABWLk4FQAAAABJRU5ErkJggg=="/>
+        </g>
+    </mask>
+    <radialGradient id="d" cx="197.74678" cy="69.253197" gradientTransform="matrix(37.758633 0 0 19.739206 -7375.666016 -1304.003174)" gradientUnits="userSpaceOnUse" r="2.50025">
+        <stop offset="0" stop-color="#ffffff" stop-opacity="0.988235"/>
+        <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="e">
+        <rect height="152" width="192"/>
+    </clipPath>
+    <clipPath id="f">
+        <rect height="16" width="16"/>
+    </clipPath>
+    <clipPath id="g">
+        <path d="m 0 0 h 16 v 16 h -16 z m 0 0"/>
+    </clipPath>
+    <mask id="h">
+        <g filter="url(#a)">
+            <image height="152" transform="matrix(1 0 0 1 -168 -16)" width="192" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAACYCAYAAACyAeadAAAABmJLR0QA/wD/AP+gvaeTAAAAiElEQVR4nO3BMQEAAADCoPVP7WsIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAPIpwABWLk4FQAAAABJRU5ErkJggg=="/>
+        </g>
+    </mask>
+    <clipPath id="i">
+        <rect height="152" width="192"/>
+    </clipPath>
+    <clipPath id="j">
+        <rect height="16" width="16"/>
+    </clipPath>
+    <g clip-path="url(#f)">
+        <g clip-path="url(#b)">
+            <g mask="url(#c)">
+                <g clip-path="url(#e)" transform="matrix(1 0 0 1 -168 -16)">
+                    <path d="m 90.22095 7.750735 v 121.508817" fill="none" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" transform="matrix(0.214884 0 0 0.213301 11.280915 72.819416)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g clip-path="url(#j)">
+        <g clip-path="url(#g)">
+            <g mask="url(#h)">
+                <g clip-path="url(#i)" transform="matrix(1 0 0 1 -168 -16)">
+                    <path d="m 90.23346 7.75077 v 121.508817" fill="none" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" transform="matrix(-0.214884 0 0 0.213301 132.717867 72.819408)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <path d="m 8 2.171875 c -0.863281 0 -1.726562 0.222656 -2.5 0.671875 c -1.445312 0.832031 -2.386719 2.332031 -2.5 3.984375 v 1 c -1.109375 0 -2 0.890625 -2 2 v 2 c 0 1.109375 0.890625 2 2 2 h 2 v -6.65625 c 0 -1.074219 0.570312 -2.0625 1.5 -2.597656 c 0.929688 -0.539063 2.070312 -0.539063 3 0 c 0.929688 0.535156 1.5 1.523437 1.5 2.597656 v 6.65625 h 2 c 1.109375 0 2 -0.890625 2 -2 v -2 c 0 -1.109375 -0.890625 -2 -2 -2 v -1 c -0.113281 -1.652344 -1.054688 -3.152344 -2.5 -3.984375 c -0.773438 -0.449219 -1.636719 -0.671875 -2.5 -0.671875 z m 0 0"/>
+</svg>
