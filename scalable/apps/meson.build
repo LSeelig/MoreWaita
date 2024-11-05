@@ -137,6 +137,7 @@ regular_files = [
     'logseq.svg',
     'lvim.svg',
     'mailspring.svg',
+    'maple.svg',
     'mathematica.svg',
     'mattermost.svg',
     'mediainfo.svg',
@@ -144,6 +145,7 @@ regular_files = [
     'micro.svg',
     'microsoft-edge.svg',
     'minecraft.svg',
+    'minetest.svg',
     'mockoon.svg',
     'monero.svg',
     'mpv.svg',
@@ -157,12 +159,15 @@ regular_files = [
     'nvim.svg',
     'nvtop.svg',
     'obsidian.svg',
+    'octave.svg',
+    'okular.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
     'openboard.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
+    'openscad.svg',
     'opensnitch-ui.svg',
     'opera.svg',
     'org.DolphinEmu.dolphin-emu.svg',
@@ -215,6 +220,7 @@ regular_files = [
     'spek.svg',
     'spotify.svg',
     'spyder.svg',
+    'sqlitebrowser.svg',
     'standard-notes.svg',
     'steam-icon.svg',
     'stellarium.svg',
@@ -254,6 +260,7 @@ regular_files = [
     'yandex-browser.svg',
     'yuzu.svg',
     'zaproxy.svg',
+    'zathura.svg',
     'zed.svg',
     'zen-browser.svg',
     'zrythm.svg',
@@ -394,6 +401,10 @@ link_files = {
     'stellarium.svg': [
         'org.stellarium.Stellarium.svg',
     ],
+    'sqlitebrowser.svg': [
+        'org.sqlitebrowser.sqlitebrowser.svg',
+        'sqliteman.svg',
+    ],
     'soundconverter.svg': [
         'org.soundconverter.SoundConverter.svg',
     ],
@@ -406,11 +417,21 @@ link_files = {
     'qbittorrent.svg': [
         'org.qbittorrent.qBittorrent.svg',
     ],
+    'zathura.svg': [
+        'org.pwmt.zathura.svg',
+    ],
     'prismlauncher.svg': [
         'org.prismlauncher.PrismLauncher.svg',
     ],
     'josm.svg': [
         'org.openstreetmap.josm.svg',
+    ],
+    'openscad.svg': [
+        'org.openscad.OpenSCAD.svg',
+    ],
+    'octave.svg': [
+        'org.octave.Octave.svg',
+        'qtoctave.svg',
     ],
     'thunderbird.svg': [
         'org.mozilla.Thunderbird.svg',
@@ -428,6 +449,9 @@ link_files = {
     ],
     'keepassxc.svg': [
         'org.keepassxc.KeePassXC.svg',
+    ],
+    'okular.svg': [
+        'org.kde.okular.svg',
     ],
     'kolourpaint.svg': [
         'org.kde.kolourpaint.svg',
@@ -542,6 +566,11 @@ link_files = {
         'me.kozec.syncthingtk.svg',
         'syncthing.svg',
         'syncthingtray.svg',
+    ],
+    'minetest.svg': [
+        'lutris_minetest.svg',
+        'minetest-icon.svg',
+        'net.minetest.Minetest.svg',
     ],
     'libreoffice-main.svg': [
         'libreoffice7.6-main.svg',
@@ -1084,6 +1113,10 @@ link_files = {
         'java19-openjdk.svg',
         'java20-openjdk.svg',
         'java21-openjdk.svg',
+        'java22-openjdk.svg',
+        'java23-openjdk.svg',
+        'java24-openjdk.svg',
+        'java25-openjdk.svg',
         'java8-openjdk.svg',
         'java9-openjdk.svg',
         'javaws.svg',

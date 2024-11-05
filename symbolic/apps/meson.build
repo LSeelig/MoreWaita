@@ -121,6 +121,7 @@ regular_files = [
     'logseq-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
+    'maple-symbolic.svg',
     'mathematica-symbolic.svg',
     'mattermost-symbolic.svg',
     'mediainfo-symbolic.svg',
@@ -128,6 +129,7 @@ regular_files = [
     'micro-symbolic.svg',
     'microsoft-edge-symbolic.svg',
     'minecraft-symbolic.svg',
+    'minetest-symbolic.svg',
     'mockoon-symbolic.svg',
     'monero-symbolic.svg',
     'mumble-symbolic.svg',
@@ -139,12 +141,15 @@ regular_files = [
     'nvim-symbolic.svg',
     'nvtop-symbolic.svg',
     'obsidian-symbolic.svg',
+    'octave-symbolic.svg',
+    'okular-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
     'openboard-symbolic.svg',
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
+    'openscad-symbolic.svg',
     'opensnitch-ui-symbolic.svg',
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
@@ -231,6 +236,7 @@ regular_files = [
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
+    'zathura-symbolic.svg',
     'zed-symbolic.svg',
     'zen-browser-symbolic.svg',
     'zrythm-symbolic.svg',
@@ -380,11 +386,21 @@ link_files = {
     'qbittorrent-symbolic.svg': [
         'org.qbittorrent.qBittorrent-symbolic.svg',
     ],
+    'zathura-symbolic.svg': [
+        'org.pwmt.zathura-symbolic.svg',
+    ],
     'prismlauncher-symbolic.svg': [
         'org.prismlauncher.PrismLauncher-symbolic.svg',
     ],
     'josm-symbolic.svg': [
         'org.openstreetmap.josm-symbolic.svg',
+    ],
+    'openscad-symbolic.svg': [
+        'org.openscad.OpenSCAD-symbolic.svg',
+    ],
+    'octave-symbolic.svg': [
+        'org.octave.Octave-symbolic.svg',
+        'qtoctave-symbolic.svg',
     ],
     'thunderbird-symbolic.svg': [
         'org.mozilla.Thunderbird-symbolic.svg',
@@ -402,6 +418,9 @@ link_files = {
     ],
     'keepassxc-symbolic.svg': [
         'org.keepassxc.KeePassXC-symbolic.svg',
+    ],
+    'okular-symbolic.svg': [
+        'org.kde.okular-symbolic.svg',
     ],
     'kolourpaint-symbolic.svg': [
         'org.kde.kolourpaint-symbolic.svg',
@@ -515,6 +534,11 @@ link_files = {
         'me.kozec.syncthingtk-symbolic.svg',
         'syncthing-symbolic.svg',
         'syncthingtray-symbolic.svg',
+    ],
+    'minetest-symbolic.svg': [
+        'lutris_minetest-symbolic.svg',
+        'minetest-icon-symbolic.svg',
+        'net.minetest.Minetest-symbolic.svg',
     ],
     'libreoffice-main-symbolic.svg': [
         'libreoffice7.6-main-symbolic.svg',
@@ -730,6 +754,9 @@ link_files = {
     ],
     'gda-control-center-symbolic.svg': [
         'gda-browser-5.0-symbolic.svg',
+        'org.sqlitebrowser.sqlitebrowser-symbolic.svg',
+        'sqlitebrowser-symbolic.svg',
+        'sqliteman-symbolic.svg',
     ],
     'fuse-emulator-symbolic.svg': [
         'fuse-symbolic.svg',
@@ -1028,6 +1055,10 @@ link_files = {
         'java19-openjdk-symbolic.svg',
         'java20-openjdk-symbolic.svg',
         'java21-openjdk-symbolic.svg',
+        'java22-openjdk-symbolic.svg',
+        'java23-openjdk-symbolic.svg',
+        'java24-openjdk-symbolic.svg',
+        'java25-openjdk-symbolic.svg',
         'java8-openjdk-symbolic.svg',
         'java9-openjdk-symbolic.svg',
         'javaws-symbolic.svg',
