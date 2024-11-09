@@ -96,6 +96,7 @@ regular_files = [
     'jetbrains-toolbox-symbolic.svg',
     'joplin-symbolic.svg',
     'josm-symbolic.svg',
+    'julia-symbolic.svg',
     'jupyter-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
@@ -117,6 +118,7 @@ regular_files = [
     'libreoffice-writer-symbolic.svg',
     'librewolf-symbolic.svg',
     'liferea-symbolic.svg',
+    'lightworks-symbolic.svg',
     'linguist-symbolic.svg',
     'logseq-symbolic.svg',
     'lvim-symbolic.svg',
@@ -125,6 +127,7 @@ regular_files = [
     'mathematica-symbolic.svg',
     'mattermost-symbolic.svg',
     'mediainfo-symbolic.svg',
+    'mega-symbolic.svg',
     'menulibre-symbolic.svg',
     'micro-symbolic.svg',
     'microsoft-edge-symbolic.svg',
@@ -136,6 +139,7 @@ regular_files = [
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'nextcloud-symbolic.svg',
+    'nheko-symbolic.svg',
     'nufraw-symbolic.svg',
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
@@ -162,6 +166,7 @@ regular_files = [
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
     'popcorntime-symbolic.svg',
+    'portmaster-symbolic.svg',
     'postman-symbolic.svg',
     'preferences-desktop-theme-symbolic.svg',
     'preferences-system-network-symbolic.svg',
@@ -185,6 +190,7 @@ regular_files = [
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
     'rustdesk-symbolic.svg',
+    'ryujinx-symbolic.svg',
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
@@ -232,6 +238,7 @@ regular_files = [
     'windscribe-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
+    'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
@@ -360,9 +367,6 @@ link_files = {
     'vlc-symbolic.svg': [
         'org.videolan.VLC-symbolic.svg',
     ],
-    'texstudio-symbolic.svg': [
-        'org.texstudio.TeXstudio-symbolic.svg',
-    ],
     'telegram-symbolic.svg': [
         'org.telegram.desktop-symbolic.svg',
         'telegram-desktop-bin-symbolic.svg',
@@ -379,6 +383,9 @@ link_files = {
     ],
     'signal-desktop-symbolic.svg': [
         'org.signal.Signal-symbolic.svg',
+    ],
+    'ryujinx-symbolic.svg': [
+        'org.ryujinx.Ryujinx-symbolic.svg',
     ],
     'qutebrowser-symbolic.svg': [
         'org.qutebrowser.qutebrowser-symbolic.svg',
@@ -482,6 +489,9 @@ link_files = {
     'com.obsproject.Studio-symbolic.svg': [
         'obs-symbolic.svg',
     ],
+    'mega-symbolic.svg': [
+        'nz.mega.MEGAsync-symbolic.svg',
+    ],
     'nvidia-symbolic.svg': [
         'nvidia-310-settings-symbolic.svg',
         'nvidia-current-settings-symbolic.svg',
@@ -490,6 +500,11 @@ link_files = {
         'nvidia-drivers-settings-symbolic.svg',
         'nvidia-settings-symbolic.svg',
         'nvidia-x-server-settings-symbolic.svg',
+    ],
+    'texstudio-symbolic.svg': [
+        'net.xm1math.Texmaker-symbolic.svg',
+        'org.texstudio.TeXstudio-symbolic.svg',
+        'texmaker-symbolic.svg',
     ],
     'projectM-symbolic.svg': [
         'net.sourceforge.projectM-symbolic.svg',
@@ -534,6 +549,10 @@ link_files = {
         'me.kozec.syncthingtk-symbolic.svg',
         'syncthing-symbolic.svg',
         'syncthingtray-symbolic.svg',
+    ],
+    'xonotic-symbolic.svg': [
+        'lutris_xonotic-symbolic.svg',
+        'org.xonotic.Xonotic-symbolic.svg',
     ],
     'minetest-symbolic.svg': [
         'lutris_minetest-symbolic.svg',
@@ -685,6 +704,9 @@ link_files = {
         'jupyterlab-desktop-symbolic.svg',
         'org.jupyter.JupyterLab-symbolic.svg',
     ],
+    'julia-symbolic.svg': [
+        'juliabackend-symbolic.svg',
+    ],
     'QtProject-designer-symbolic.svg': [
         'io.qt.Designer-symbolic.svg',
     ],
@@ -713,6 +735,10 @@ link_files = {
     ],
     'pidgin-symbolic.svg': [
         'im.pidgin.Pidgin-symbolic.svg',
+    ],
+    'nheko-symbolic.svg': [
+        'im.nheko.Nheko-symbolic.svg',
+        'io.github.NhekoReborn.Nheko-symbolic.svg',
     ],
     'hp_logo-symbolic.svg': [
         'hp-logo-symbolic.svg',

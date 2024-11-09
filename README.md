@@ -135,6 +135,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/jetbrains-toolbox.svg "JetBrains Toolbox")
 ![icon](./scalable/apps/joplin.svg "Joplin")
 ![icon](./scalable/apps/josm.svg "JOSM")
+![icon](./scalable/apps/julia.svg "Julia")
 ![icon](./scalable/apps/jupyter.svg "Jupyter")
 ![icon](./scalable/apps/kate.svg "Kate")
 ![icon](./scalable/apps/kdenlive.svg "KDEnlive")
@@ -156,6 +157,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/libreoffice-startcenter.svg "LibreOffice StartCenter")
 ![icon](./scalable/apps/librewolf.svg "Librewolf")
 ![icon](./scalable/apps/liferea.svg "Liferea")
+![icon](./scalable/apps/lightworks.svg "Lightworks")
 ![icon](./scalable/apps/logseq.svg "Logseq")
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
@@ -164,6 +166,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mattermost.svg "Mattermost")
 ![icon](./scalable/apps/MediathekView.svg "MediathekView")
 ![icon](./scalable/apps/mediainfo.svg "Mediainfo")
+![icon](./scalable/apps/mega.svg "Mega")
 ![icon](./scalable/apps/com.tonikelope.MegaBasterd.svg "MegaBasterd")
 ![icon](./scalable/apps/net.kuribo64.melonDS.svg "melonDS")
 ![icon](./scalable/apps/menulibre.svg "Menulibre")
@@ -180,6 +183,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/preferences-system-network.svg "Network Preferences")
 ![icon](./scalable/apps/network-wired.svg "Network Wired")
 ![icon](./scalable/apps/nextcloud.svg "NextCloud")
+![icon](./scalable/apps/nheko.svg "Nheko")
 ![icon](./scalable/apps/nufraw.svg "nUFRaw")
 ![icon](./scalable/apps/nvidia.svg "nVidia Settings")
 ![icon](./scalable/apps/nvtop.svg "NVTOP")
@@ -204,6 +208,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
 ![icon](./scalable/apps/net.poedit.Poedit.svg "Poedit")
 ![icon](./scalable/apps/popcorntime.svg "Popcorn Time")
+![icon](./scalable/apps/portmaster.svg "Portmaster")
 ![icon](./scalable/apps/postman.svg "Postman")
 ![icon](./scalable/apps/org.gnome.PowerStats.svg "Power Statistics")
 ![icon](./scalable/apps/prismlauncher.svg "Prism Launcher")
@@ -227,6 +232,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
 ![icon](./scalable/apps/rstudio.svg "RStudio")
 ![icon](./scalable/apps/rustdesk.svg "RustDesk")
+![icon](./scalable/apps/ryujinx.svg "Ryujinx")
 ![icon](./scalable/apps/saber.svg "Saber")
 ![icon](./scalable/apps/scrcpy.svg "Scrcpy")
 ![icon](./scalable/apps/guiscrcpy.svg "GUI Scrcpy")
@@ -257,6 +263,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/teams.svg "Teams")
 ![icon](./scalable/apps/TeamViewer.svg "TeamViewer")
 ![icon](./scalable/apps/telegram.svg "Telegram")
+![icon](./scalable/apps/texmaker.svg "Texmaker")
 ![icon](./scalable/apps/texstudio.svg "Texstudio")
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
 ![icon](./scalable/apps/todoist.svg "Todoist")
@@ -279,6 +286,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/windscribe.svg "Windscribe")
 ![icon](./scalable/apps/wonderpen.svg "WonderPen")
 ![icon](./scalable/apps/xdvi.svg "xdvi")
+![icon](./scalable/apps/xonotic.svg "Xonotic")
 ![icon](./scalable/apps/xsane.svg "xSane")
 ![icon](./scalable/apps/yandex-browser.svg "Yandex Browser")
 ![icon](./scalable/apps/yuzu.svg "Yuzu")
@@ -396,6 +404,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Places</h3></summary>
 
+![icon](./scalable/places/folder-3dbenchy.svg "3DBenchy")
 ![icon](./scalable/places/folder-android.svg "Android")
 ![icon](./scalable/places/folder-appimage.svg "AppImage")
 ![icon](./scalable/places/folder-archlinux.svg "Arch Linux")
@@ -456,9 +465,9 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
 
-
 ### Legacy Places
 
+![icon](./scalable/places/folder-3dbenchy-legacy.svg "3DBenchy")
 ![icon](./scalable/places/folder-android-legacy.svg "Android")
 ![icon](./scalable/places/folder-appimage-legacy.svg "AppImage")
 ![icon](./scalable/places/folder-archlinux-legacy.svg "Arch Linux")
@@ -641,4 +650,4 @@ If the theme applies, but a particular app doesn't get themed (and its icon is i
 
 If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `Main Menu`, `MenuLibre` or `Alacarte`.
 
-If your app's `.desktop` file references an icon name not present in MoreWaita's `apps/scalable` folder, please report it in an issue providing the icon name from your system.
+If your app's `.desktop` file references an icon name not present in MoreWaita's `scalable/apps` folder, please report it in an issue providing the icon name from your system.

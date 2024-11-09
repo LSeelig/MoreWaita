@@ -112,6 +112,7 @@ regular_files = [
     'jetbrains-toolbox.svg',
     'joplin.svg',
     'josm.svg',
+    'julia.svg',
     'jupyter.svg',
     'kate.svg',
     'kdenlive.svg',
@@ -133,6 +134,7 @@ regular_files = [
     'libreoffice-writer.svg',
     'librewolf.svg',
     'liferea.svg',
+    'lightworks.svg',
     'linguist.svg',
     'logseq.svg',
     'lvim.svg',
@@ -141,6 +143,7 @@ regular_files = [
     'mathematica.svg',
     'mattermost.svg',
     'mediainfo.svg',
+    'mega.svg',
     'menulibre.svg',
     'micro.svg',
     'microsoft-edge.svg',
@@ -154,6 +157,7 @@ regular_files = [
     'net.poedit.Poedit.svg',
     'network-wired.svg',
     'nextcloud.svg',
+    'nheko.svg',
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
@@ -184,6 +188,7 @@ regular_files = [
     'phpstorm.svg',
     'pidgin.svg',
     'popcorntime.svg',
+    'portmaster.svg',
     'postman.svg',
     'preferences-desktop-theme.svg',
     'preferences-system-network.svg',
@@ -207,6 +212,7 @@ regular_files = [
     'rstudio.svg',
     'rubymine.svg',
     'rustdesk.svg',
+    'ryujinx.svg',
     'saber.svg',
     'scrcpy.svg',
     'scribus.svg',
@@ -234,6 +240,7 @@ regular_files = [
     'system-software-install.svg',
     'teams.svg',
     'telegram.svg',
+    'texmaker.svg',
     'texstudio.svg',
     'thunderbird.svg',
     'todoist.svg',
@@ -256,6 +263,7 @@ regular_files = [
     'windscribe.svg',
     'wonderpen.svg',
     'xdvi.svg',
+    'xonotic.svg',
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
@@ -411,6 +419,9 @@ link_files = {
     'signal-desktop.svg': [
         'org.signal.Signal.svg',
     ],
+    'ryujinx.svg': [
+        'org.ryujinx.Ryujinx.svg',
+    ],
     'qutebrowser.svg': [
         'org.qutebrowser.qutebrowser.svg',
     ],
@@ -510,6 +521,9 @@ link_files = {
     'com.obsproject.Studio.svg': [
         'obs.svg',
     ],
+    'mega.svg': [
+        'nz.mega.MEGAsync.svg',
+    ],
     'nvidia.svg': [
         'nvidia-310-settings.svg',
         'nvidia-current-settings.svg',
@@ -518,6 +532,9 @@ link_files = {
         'nvidia-drivers-settings.svg',
         'nvidia-settings.svg',
         'nvidia-x-server-settings.svg',
+    ],
+    'texmaker.svg': [
+        'net.xm1math.Texmaker.svg',
     ],
     'projectM.svg': [
         'net.sourceforge.projectM.svg',
@@ -566,6 +583,10 @@ link_files = {
         'me.kozec.syncthingtk.svg',
         'syncthing.svg',
         'syncthingtray.svg',
+    ],
+    'xonotic.svg': [
+        'lutris_xonotic.svg',
+        'org.xonotic.Xonotic.svg',
     ],
     'minetest.svg': [
         'lutris_minetest.svg',
@@ -718,6 +739,9 @@ link_files = {
         'jupyterlab-desktop.svg',
         'org.jupyter.JupyterLab.svg',
     ],
+    'julia.svg': [
+        'juliabackend.svg',
+    ],
     'QtProject-designer.svg': [
         'io.qt.Designer.svg',
     ],
@@ -750,6 +774,10 @@ link_files = {
     ],
     'pidgin.svg': [
         'im.pidgin.Pidgin.svg',
+    ],
+    'nheko.svg': [
+        'im.nheko.Nheko.svg',
+        'io.github.NhekoReborn.Nheko.svg',
     ],
     'hp_logo.svg': [
         'hp-logo.svg',
