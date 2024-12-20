@@ -13,7 +13,7 @@ body:
 - type: input
   id: icon
   attributes:
-   label: Name of app
+   label: Name of app, mime type or folder
    placeholder: AbiWord
   validations:
    required: true
@@ -21,18 +21,18 @@ body:
   id: link
   attributes:
    label: Link to official icon
-   placeholder: Paste a link to the official icon on the project site, WikiMedia, etc.
+   placeholder: Paste a link to the official icon on the project site, WikiMedia, etc. (ideally in `.svg` format)
   validations:
    required: true
 - type: input
   id: iconname
   attributes:
-   label: Name of icon (as referenced in the .desktop file, regular and Flatpak apps have different icon names for the same apps)
+   label: Name of icon as referenced in the .desktop file (Flatpak and AppImage apps' icon names often differ from regular ones for the same app).
    placeholder: com.abisource.AbiWord
 - type: textarea
   id: screenshot
   attributes:
-   label: Optional image of the app icon
+   label: Optional image of the icon
    placeholder: Drag-and-drop an image or upload from the Markdown toolbar.
 - type: textarea
   id: additional

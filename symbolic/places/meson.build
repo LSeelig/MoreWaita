@@ -20,6 +20,7 @@ regular_files = [
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
+    'folder-earth-symbolic.svg',
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
     'folder-fedora-symbolic.svg',
@@ -32,13 +33,16 @@ regular_files = [
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
     'folder-gitlab-symbolic.svg',
+    'folder-globe-symbolic.svg',
     'folder-gnome-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
+    'folder-google-drive-symbolic.svg',
     'folder-inkscape-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
     'folder-kicad-symbolic.svg',
+    'folder-local-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-mega-symbolic.svg',
     'folder-money-symbolic.svg',
@@ -46,6 +50,7 @@ regular_files = [
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
     'folder-nix-symbolic.svg',
+    'folder-onedrive-symbolic.svg',
     'folder-openscad-symbolic.svg',
     'folder-opensuse-symbolic.svg',
     'folder-platformio-symbolic.svg',
@@ -55,6 +60,7 @@ regular_files = [
     'folder-projects-symbolic.svg',
     'folder-python-symbolic.svg',
     'folder-r-symbolic.svg',
+    'folder-raspberry-pi-symbolic.svg',
     'folder-redhat-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
@@ -65,6 +71,7 @@ regular_files = [
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
     'folder-temp-symbolic.svg',
+    'folder-translation-symbolic.svg',
     'folder-ubuntu-symbolic.svg',
     'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
@@ -87,6 +94,9 @@ link_files = {
     ],
     'folder-ubuntu-symbolic.svg': [
         'folder-ubuntu-legacy-symbolic.svg',
+    ],
+    'folder-translation-symbolic.svg': [
+        'folder-translation-legacy-symbolic.svg',
     ],
     'folder-temp-symbolic.svg': [
         'folder-temp-legacy-symbolic.svg',
@@ -112,6 +122,9 @@ link_files = {
     'folder-redhat-symbolic.svg': [
         'folder-redhat-legacy-symbolic.svg',
     ],
+    'folder-raspberry-pi-symbolic.svg': [
+        'folder-raspberry-pi-legacy-symbolic.svg',
+    ],
     'folder-r-symbolic.svg': [
         'folder-r-legacy-symbolic.svg',
     ],
@@ -126,6 +139,9 @@ link_files = {
     ],
     'folder-openscad-symbolic.svg': [
         'folder-openscad-legacy-symbolic.svg',
+    ],
+    'folder-onedrive-symbolic.svg': [
+        'folder-onedrive-legacy-symbolic.svg',
     ],
     'folder-nix-symbolic.svg': [
         'folder-nix-legacy-symbolic.svg',
@@ -142,6 +158,9 @@ link_files = {
     'folder-lua-symbolic.svg': [
         'folder-lua-legacy-symbolic.svg',
     ],
+    'folder-local-symbolic.svg': [
+        'folder-local-legacy-symbolic.svg',
+    ],
     'folder-kicad-symbolic.svg': [
         'folder-kicad-legacy-symbolic.svg',
     ],
@@ -154,6 +173,9 @@ link_files = {
     'folder-inkscape-symbolic.svg': [
         'folder-inkscape-legacy-symbolic.svg',
     ],
+    'folder-google-drive-symbolic.svg': [
+        'folder-google-drive-legacy-symbolic.svg',
+    ],
     'folder-godot-symbolic.svg': [
         'folder-godot-legacy-symbolic.svg',
     ],
@@ -162,6 +184,9 @@ link_files = {
     ],
     'folder-gnome-symbolic.svg': [
         'folder-gnome-legacy-symbolic.svg',
+    ],
+    'folder-globe-symbolic.svg': [
+        'folder-globe-legacy-symbolic.svg',
     ],
     'folder-gitlab-symbolic.svg': [
         'folder-gitlab-legacy-symbolic.svg',
@@ -183,6 +208,9 @@ link_files = {
     ],
     'folder-emacs-symbolic.svg': [
         'folder-emacs-legacy-symbolic.svg',
+    ],
+    'folder-earth-symbolic.svg': [
+        'folder-earth-legacy-symbolic.svg',
     ],
     'folder-dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
