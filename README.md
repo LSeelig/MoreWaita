@@ -2,12 +2,12 @@
 
 # MoreWaita
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub Release](https://img.shields.io/github/v/release/somepaulo/MoreWaita?label=Release&color=007800)
 
 An expanded Adwaita-styled companion icon theme, built largely upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as inspiration from the Papirus icon theme designers, and a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and [a few others](https://github.com/somepaulo/MoreWaita/graphs/contributors).
 
 <details>
-<summary><h4>About the theme</h4></summary>
+<summary><h3>About the theme</h3> <em>(expand)</em></summary>
 
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
 
@@ -26,6 +26,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 
 ![icon](./scalable/apps/abiword.svg "Abiword")
 ![icon](./scalable/apps/gnome-aisleriot.svg "Aisleriot Solitaire")
+![icon](./scalable/apps/alacarte.svg "Alacarte")
 ![icon](./scalable/apps/alacritty.svg "Alacritty")
 ![icon](./scalable/apps/androidstudio.svg "Android Studio")
 ![icon](./scalable/apps/android-studio-canary.svg "Android Studio Canary")
@@ -44,6 +45,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/blender.svg "Blender")
 ![icon](./scalable/apps/blockbench.svg "Blockbench")
 ![icon](./scalable/apps/app.bluebubbles.BlueBubbles.svg "BlueBubbles")
+![icon](./scalable/apps/bluemail.svg "BlueMail")
 ![icon](./scalable/apps/boxbuddyrs.svg "BoxBuddy")
 ![icon](./scalable/apps/boxy-svg.svg "Boxy SVG")
 ![icon](./scalable/apps/brave-desktop.svg "Brave")
@@ -77,6 +79,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/discord.svg "Discord")
 ![icon](./scalable/apps/discord-canary.svg "Discord Canary")
 ![icon](./scalable/apps/org.DolphinEmu.dolphin-emu.svg "Dolphin Emulator")
+![icon](./scalable/apps/dropbox.svg "Dropbox")
 ![icon](./scalable/apps/eclipse.svg "Eclipse")
 ![icon](./scalable/apps/electron.svg "Electron")
 ![icon](./scalable/apps/electrum.svg "Electrum")
@@ -110,6 +113,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/geneious.svg "Geneious")
 ![icon](./scalable/apps/genymotion.svg "Genymotion")
 ![icon](./scalable/apps/geogebra.svg "Geogebra")
+![icon](./scalable/apps/ghostty.svg "Ghostty")
 ![icon](./scalable/apps/gimp.svg "GIMP")
 ![icon](./scalable/apps/github-desktop.svg "GitHub Desktop")
 ![icon](./scalable/apps/gitkraken.svg "GitKraken")
@@ -150,6 +154,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/rubymine.svg "JetBrains RubyMine")
 ![icon](./scalable/apps/webstorm.svg "JetBrains WebStorm")
 ![icon](./scalable/apps/jetbrains-toolbox.svg "JetBrains Toolbox")
+![icon](./scalable/apps/jockey.svg "Jockey")
 ![icon](./scalable/apps/joplin.svg "Joplin")
 ![icon](./scalable/apps/josm.svg "JOSM")
 ![icon](./scalable/apps/julia.svg "Julia")
@@ -165,6 +170,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/kvantum.svg "Kvantum")
 ![icon](./scalable/apps/lazarus.svg "Lazarus")
 ![icon](./scalable/apps/lazpaint.svg "Lazpaint")
+![icon](./scalable/apps/libre-menu-editor.svg "Libre Menu Editor")
 ![icon](./scalable/apps/libreoffice-writer.svg "LibreOffice Writer")
 ![icon](./scalable/apps/libreoffice-calc.svg "LibreOffice Calc")
 ![icon](./scalable/apps/libreoffice-impress.svg "LibreOffice Impress")
@@ -183,6 +189,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
 ![icon](./scalable/apps/maple.svg "Maple")
 ![icon](./scalable/apps/mathematica.svg "Mathematica")
+![icon](./scalable/apps/matlab.svg "Matlab")
 ![icon](./scalable/apps/mattermost.svg "Mattermost")
 ![icon](./scalable/apps/maxima.svg "Maxima")
 ![icon](./scalable/apps/MediathekView.svg "MediathekView")
@@ -197,10 +204,12 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/microsoft-edge.svg "Microsoft Edge")
 ![icon](./scalable/apps/minecraft.svg "Minecraft")
 ![icon](./scalable/apps/minetest.svg "Minetest")
+![icon](./scalable/apps/mixxx.svg "Mixxx")
 ![icon](./scalable/apps/mockoon.svg "Mockoon")
 ![icon](./scalable/apps/monero.svg "Monero")
 ![icon](./scalable/apps/mpv.svg "mpv")
 ![icon](./scalable/apps/mumble.svg "Mumble")
+![icon](./scalable/apps/musescore.svg "Musescore")
 ![icon](./scalable/apps/nvim.svg "Neovim")
 ![icon](./scalable/apps/netbeans.svg "NetBeans")
 ![icon](./scalable/apps/gnome-nettool.svg "Network Tools")
@@ -208,6 +217,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/network-wired.svg "Network Wired")
 ![icon](./scalable/apps/nextcloud.svg "NextCloud")
 ![icon](./scalable/apps/nheko.svg "Nheko")
+![icon](./scalable/apps/nicotine-plus.svg "Nicotine+")
 ![icon](./scalable/apps/Notesnook.svg "Notesnook")
 ![icon](./scalable/apps/nufraw.svg "nUFRaw")
 ![icon](./scalable/apps/nvidia.svg "nVidia Settings")
@@ -264,6 +274,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/rpi-imager.svg "Raspberry Pi Imager")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
+![icon](./scalable/apps/ringracers.svg "Dr. Robotnik's Ring Racers")
 ![icon](./scalable/apps/rocketchat.svg "Rocket.Chat")
 ![icon](./scalable/apps/rstudio.svg "RStudio")
 ![icon](./scalable/apps/rustdesk.svg "RustDesk")
@@ -310,6 +321,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/ungoogled-chromium.svg "Ungoogled Chromium")
 ![icon](./scalable/apps/unityhub.svg "Unity Hub")
 ![icon](./scalable/apps/unity-editor-icon.svg "Unity Editor")
+![icon](./scalable/apps/veracrypt.svg "VeraCrypt")
 ![icon](./scalable/apps/via-nativia.svg "VIA")
 ![icon](./scalable/apps/viber.svg "Viber")
 ![icon](./scalable/apps/vim.svg "Vim")
@@ -449,6 +461,17 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/virtualbox-vmdk.svg "VirtualBox VMDK Image")
 </details>
 <details>
+<summary><h3>Devices</h3> <em>(expand)</em></summary>
+
+![icon](./scalable/devices/audio-card.svg "Audio Card")
+![icon](./scalable/devices/cpu.svg "CPU")
+![icon](./scalable/devices/keyboard.svg "Virtual Keyboard")
+![icon](./scalable/devices/memory.svg "Memory")
+![icon](./scalable/devices/network-card.svg "Network Card")
+![icon](./scalable/apps/jockey.svg "PCI Card")
+![icon](./scalable/devices/drive-harddisk-solidstate.svg "SSD")
+</details>
+<details>
 <summary><h3>Places</h3> <em>(expand)</em></summary>
 
 ![icon](./scalable/places/folder-3dbenchy.svg "3DBenchy")
@@ -491,6 +514,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-lua.svg "Lua")
 ![icon](./scalable/places/folder-mega.svg "Mega")
 ![icon](./scalable/places/folder-money.svg "Money")
+![icon](./scalable/places/folder-musescore.svg "Musescore")
 ![icon](./scalable/places/folder-neovim.svg "Neovim")
 ![icon](./scalable/places/folder-nextcloud.svg "NextCloud")
 ![icon](./scalable/places/folder-nix.svg "Nix")
@@ -503,6 +527,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-python.svg "Python")
 ![icon](./scalable/places/folder-r.svg "R")
 ![icon](./scalable/places/folder-raspberry-pi.svg "Raspberry Pi")
+![icon](./scalable/places/folder-recent.svg "Recent")
 ![icon](./scalable/places/folder-redhat.svg "Red Hat")
 ![icon](./scalable/places/folder-ruby.svg "Ruby")
 ![icon](./scalable/places/folder-rust.svg "Rust")
@@ -519,8 +544,45 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
 
-### Legacy Places
+</details>
+<details>
+<summary><h3>Legacy</h3> <em>(expand)</em></summary>
 
+#### Apps
+![icon](./scalable/legacy/system-file-manager.svg "File manager")
+![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
+
+#### Categories
+![icon](./scalable/legacy/applications-accessories.svg "Accessories app category")
+![icon](./scalable/legacy/applications-development.svg "Development app category")
+![icon](./scalable/legacy/applications-education.svg "Education app category")
+![icon](./scalable/legacy/applications-engineering.svg "Engineering app category")
+![icon](./scalable/legacy/applications-games.svg "Games app category")
+![icon](./scalable/legacy/applications-graphics.svg "Graphics app category")
+![icon](./scalable/legacy/applications-internet.svg "Internet app category")
+![icon](./scalable/legacy/applications-multimedia.svg "Multimedia app category")
+![icon](./scalable/legacy/applications-office.svg "Office app category")
+![icon](./scalable/legacy/applications-other.svg "Other app category")
+![icon](./scalable/legacy/applications-science.svg "Science app category")
+![icon](./scalable/legacy/applications-system.svg "System app category")
+![icon](./scalable/legacy/applications-utilities.svg "Utilities app category")
+
+#### Preferences
+![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
+![icon](./scalable/legacy/preferences-desktop-accessibility.svg "Accessibility preferences")
+![icon](./scalable/legacy/preferences-desktop-locale.svg "Locale preferences")
+![icon](./scalable/legacy/applications-system.svg "System preferences")
+![icon](./scalable/legacy/system-users.svg "User preferences")
+
+#### Actions
+![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
+![icon](./scalable/legacy/system-log-out.svg "Log out")
+![icon](./scalable/legacy/system-suspend.svg "Suspend")
+![icon](./scalable/legacy/system-suspend-hibernate.svg "Hibernate")
+![icon](./scalable/legacy/system-reboot.svg "Reboot")
+![icon](./scalable/legacy/system-shutdown.svg "Shutdown")
+
+#### Places
 ![icon](./scalable/places/folder-3dbenchy-legacy.svg "3DBenchy")
 ![icon](./scalable/places/folder-android-legacy.svg "Android")
 ![icon](./scalable/places/folder-appimage-legacy.svg "AppImage")
@@ -561,6 +623,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-lua-legacy.svg "Lua")
 ![icon](./scalable/places/folder-mega-legacy.svg "Mega")
 ![icon](./scalable/places/folder-money-legacy.svg "Money")
+![icon](./scalable/places/folder-musescore-legacy.svg "Musescore")
 ![icon](./scalable/places/folder-neovim-legacy.svg "Neovim")
 ![icon](./scalable/places/folder-nextcloud-legacy.svg "NextCloud")
 ![icon](./scalable/places/folder-nix-legacy.svg "Nix")
@@ -573,6 +636,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-python-legacy.svg "Python")
 ![icon](./scalable/places/folder-r-legacy.svg "R")
 ![icon](./scalable/places/folder-raspberry-pi-legacy.svg "Raspberry Pi")
+![icon](./scalable/places/folder-recent-legacy.svg "Recent")
 ![icon](./scalable/places/folder-redhat-legacy.svg "Red Hat")
 ![icon](./scalable/places/folder-ruby-legacy.svg "Ruby")
 ![icon](./scalable/places/folder-rust-legacy.svg "Rust")
@@ -611,7 +675,7 @@ git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && ./instal
 
 ##### Uninstall
 
-Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above.
+Simply choose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above.
 
 #### Arch Linux
 

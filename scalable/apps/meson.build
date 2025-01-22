@@ -10,6 +10,7 @@ regular_files = [
     'Zoom.svg',
     'abiword.svg',
     'accessories-character-map.svg',
+    'alacarte.svg',
     'alacritty.svg',
     'android-studio-canary.svg',
     'androidstudio.svg',
@@ -29,6 +30,7 @@ regular_files = [
     'bleachbit.svg',
     'blender.svg',
     'blockbench.svg',
+    'bluemail.svg',
     'boxbuddyrs.svg',
     'boxy-svg.svg',
     'brave-desktop.svg',
@@ -62,6 +64,7 @@ regular_files = [
     'dev.bsnes.bsnes.svg',
     'discord-canary.svg',
     'discord.svg',
+    'dropbox.svg',
     'eclipse.svg',
     'electron.svg',
     'electrum.svg',
@@ -95,6 +98,7 @@ regular_files = [
     'geneious.svg',
     'genymotion.svg',
     'geogebra.svg',
+    'ghostty.svg',
     'gimp.svg',
     'github-desktop.svg',
     'gitkraken.svg',
@@ -131,6 +135,7 @@ regular_files = [
     'jdownloader.svg',
     'jellyfin.svg',
     'jetbrains-toolbox.svg',
+    'jockey.svg',
     'joplin.svg',
     'josm.svg',
     'julia.svg',
@@ -146,6 +151,7 @@ regular_files = [
     'kvantum.svg',
     'lazarus.svg',
     'lazpaint.svg',
+    'libre-menu-editor.svg',
     'libreoffice-base.svg',
     'libreoffice-basic.svg',
     'libreoffice-calc.svg',
@@ -165,6 +171,7 @@ regular_files = [
     'mailspring.svg',
     'maple.svg',
     'mathematica.svg',
+    'matlab.svg',
     'mattermost.svg',
     'maxima.svg',
     'mediainfo.svg',
@@ -175,16 +182,19 @@ regular_files = [
     'microsoft-edge.svg',
     'minecraft.svg',
     'minetest.svg',
+    'mixxx.svg',
     'mockoon.svg',
     'monero.svg',
     'mpv.svg',
     'mumble.svg',
+    'musescore.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'netbeans.svg',
     'network-wired.svg',
     'nextcloud.svg',
     'nheko.svg',
+    'nicotine-plus.svg',
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
@@ -245,6 +255,7 @@ regular_files = [
     'resolve.svg',
     'retroarch.svg',
     'rider.svg',
+    'ringracers.svg',
     'rocketchat.svg',
     'rpi-imager.svg',
     'rstudio.svg',
@@ -290,6 +301,7 @@ regular_files = [
     'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
+    'veracrypt.svg',
     'via-nativia.svg',
     'viber.svg',
     'vim.svg',
@@ -373,11 +385,11 @@ link_files = {
     'mathematica.svg': [
         'wolfram-mathematica.svg',
     ],
-    'vivaldi.svg': [
-        'vivaldi-stable.svg',
-    ],
     'virtualbox.svg': [
         'virtualbox-ose.svg',
+    ],
+    'veracrypt.svg': [
+        'veracrypt.xpm.svg',
     ],
     'Zoom.svg': [
         'us.zoom.Zoom.svg',
@@ -438,6 +450,9 @@ link_files = {
     'osu.svg': [
         'osu-lazer.svg',
         'sh.ppy.osu.svg',
+    ],
+    'zrythm.svg': [
+        'org.zrythm.Zrythm.svg',
     ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',
@@ -504,6 +519,9 @@ link_files = {
         'org.octave.Octave.svg',
         'qtoctave.svg',
     ],
+    'nicotine-plus.svg': [
+        'org.nicotine_plus.Nicotine.svg',
+    ],
     'thunderbird.svg': [
         'org.mozilla.Thunderbird.svg',
         'thunderbird-3.0.svg',
@@ -532,6 +550,9 @@ link_files = {
     ],
     'kdenlive.svg': [
         'org.kde.kdenlive.svg',
+    ],
+    'ringracers.svg': [
+        'org.kartkrew.RingRacers.svg',
     ],
     'jdownloader.svg': [
         'org.jdownloader.JDownloader.svg',
@@ -577,6 +598,9 @@ link_files = {
     ],
     'menulibre.svg': [
         'org.bluesabre.MenuLibre.svg',
+    ],
+    'bleachbit.svg': [
+        'org.bleachbit.BleachBit.svg',
     ],
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
@@ -647,6 +671,9 @@ link_files = {
     'blockbench.svg': [
         'net.blockbench.Blockbench.svg',
     ],
+    'bluemail.svg': [
+        'net.blix.BlueMail.svg',
+    ],
     'anki.svg': [
         'net.ankiweb.Anki.svg',
     ],
@@ -658,6 +685,11 @@ link_files = {
         'monero-gui.svg',
         'org.getmonero.Monero.svg',
     ],
+    'mixxx.svg': [
+        'mixxx-icon.svg',
+        'mixxx_icon.svg',
+        'org.mixxx.Mixxx.svg',
+    ],
     'com.tonikelope.MegaBasterd.svg': [
         'megabasterd.svg',
     ],
@@ -665,6 +697,10 @@ link_files = {
         'me.kozec.syncthingtk.svg',
         'syncthing.svg',
         'syncthingtray.svg',
+    ],
+    'matlab.svg': [
+        'matlab-desktop.svg',
+        'matlab_icon.svg',
     ],
     'xonotic.svg': [
         'lutris_xonotic.svg',
@@ -827,6 +863,9 @@ link_files = {
     ],
     'julia.svg': [
         'juliabackend.svg',
+    ],
+    'jockey.svg': [
+        'jockey-kde.svg',
     ],
     'QtProject-designer.svg': [
         'io.qt.Designer.svg',
@@ -1013,6 +1052,10 @@ link_files = {
     'vscodium.svg': [
         'com.vscodium.codium.svg',
     ],
+    'vivaldi.svg': [
+        'com.vivaldi.Vivaldi.svg',
+        'vivaldi-stable.svg',
+    ],
     'code-oss.svg': [
         'com.visualstudio.code-oss.svg',
         'com.visualstudio.code.oss.svg',
@@ -1070,6 +1113,9 @@ link_files = {
         'lutris_minecraft.svg',
         'minecraft-launcher.svg',
         'minecraft-pi.svg',
+    ],
+    'ghostty.svg': [
+        'com.mitchellh.ghostty.svg',
     ],
     'microsoft-edge.svg': [
         'com.microsoft.Edge.svg',
@@ -1242,6 +1288,11 @@ link_files = {
         'calibre-gui.svg',
         'com.calibre_ebook.calibre.svg',
     ],
+    'dropbox.svg': [
+        'caja-dropbox.svg',
+        'com.dropbox.Client.svg',
+        'kdepim-dropbox.svg',
+    ],
     'dev.bsnes.bsnes.svg': [
         'bsnes.svg',
     ],
@@ -1385,6 +1436,10 @@ link_files = {
         'appimagekit-obsidian.svg',
         'md.obsidian.Obsidian.svg',
     ],
+    'musescore.svg': [
+        'appimagekit-musescore.svg',
+        'org.musescore.MuseScore.svg',
+    ],
     'logseq.svg': [
         'appimagekit-logseq.svg',
         'com.logseq.Logseq.svg',
@@ -1505,6 +1560,10 @@ link_files = {
         'Mercury.svg',
         'mercury-browser.svg',
     ],
+    'libre-menu-editor.svg': [
+        'LibreMenuEditor.svg',
+        'page.codeberg.libre_menu_editor.LibreMenuEditor.svg',
+    ],
     'gitkraken.svg': [
         'GitKraken.svg',
         'com.axosoft.GitKraken.svg',
@@ -1539,6 +1598,7 @@ link_files = {
         'ardour7.svg',
         'ardour8.svg',
         'ardour9.svg',
+        'org.ardour.Ardour.svg',
     ],
     'alacritty.svg': [
         'Alacritty.svg',

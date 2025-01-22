@@ -19,7 +19,6 @@ regular_files = [
     'folder-codeberg-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
-    'folder-dropbox-symbolic.svg',
     'folder-earth-symbolic.svg',
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
@@ -46,6 +45,7 @@ regular_files = [
     'folder-lua-symbolic.svg',
     'folder-mega-symbolic.svg',
     'folder-money-symbolic.svg',
+    'folder-musescore-symbolic.svg',
     'folder-neovim-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
@@ -61,15 +61,18 @@ regular_files = [
     'folder-python-symbolic.svg',
     'folder-r-symbolic.svg',
     'folder-raspberry-pi-symbolic.svg',
+    'folder-recent-symbolic.svg',
     'folder-redhat-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
+    'folder-school-legacy-symbolic.svg',
     'folder-school-symbolic.svg',
     'folder-screencast-symbolic.svg',
     'folder-screenshot-symbolic.svg',
     'folder-shell-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
+    'folder-temp-legacy-symbolic.svg',
     'folder-temp-symbolic.svg',
     'folder-translation-symbolic.svg',
     'folder-ubuntu-symbolic.svg',
@@ -98,9 +101,6 @@ link_files = {
     'folder-translation-symbolic.svg': [
         'folder-translation-legacy-symbolic.svg',
     ],
-    'folder-temp-symbolic.svg': [
-        'folder-temp-legacy-symbolic.svg',
-    ],
     'folder-shell-symbolic.svg': [
         'folder-shell-legacy-symbolic.svg',
     ],
@@ -110,9 +110,6 @@ link_files = {
     'folder-screencast-symbolic.svg': [
         'folder-screencast-legacy-symbolic.svg',
     ],
-    'folder-school-symbolic.svg': [
-        'folder-school-legacy-symbolic.svg',
-    ],
     'folder-rust-symbolic.svg': [
         'folder-rust-legacy-symbolic.svg',
     ],
@@ -121,6 +118,9 @@ link_files = {
     ],
     'folder-redhat-symbolic.svg': [
         'folder-redhat-legacy-symbolic.svg',
+    ],
+    'folder-recent-symbolic.svg': [
+        'folder-recent-legacy-symbolic.svg',
     ],
     'folder-raspberry-pi-symbolic.svg': [
         'folder-raspberry-pi-legacy-symbolic.svg',
@@ -148,6 +148,9 @@ link_files = {
     ],
     'folder-neovim-symbolic.svg': [
         'folder-neovim-legacy-symbolic.svg',
+    ],
+    'folder-musescore-symbolic.svg': [
+        'folder-musescore-legacy-symbolic.svg',
     ],
     'folder-money-symbolic.svg': [
         'folder-money-legacy-symbolic.svg',
@@ -212,8 +215,9 @@ link_files = {
     'folder-earth-symbolic.svg': [
         'folder-earth-legacy-symbolic.svg',
     ],
-    'folder-dropbox-symbolic.svg': [
+    '../apps/dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
+        'folder-dropbox-symbolic.svg',
     ],
     'folder-csharp-symbolic.svg': [
         'folder-csharp-legacy-symbolic.svg',
