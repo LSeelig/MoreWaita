@@ -107,6 +107,7 @@ regular_files = [
     'gufw-symbolic.svg',
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',
+    'helio-workstation-symbolic.svg',
     'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
@@ -148,6 +149,7 @@ regular_files = [
     'linguist-symbolic.svg',
     'localsend-symbolic.svg',
     'logseq-symbolic.svg',
+    'lunarclient-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
     'maple-symbolic.svg',
@@ -202,6 +204,7 @@ regular_files = [
     'osmscout-server-symbolic.svg',
     'osu-symbolic.svg',
     'pacseek-symbolic.svg',
+    'parsehub-symbolic.svg',
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
     'pinta-symbolic.svg',
@@ -428,6 +431,9 @@ link_files = {
     ],
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',
+    ],
+    'virt-manager-symbolic.svg': [
+        'org.virt_manager.virt-manager-symbolic.svg',
     ],
     'vlc-symbolic.svg': [
         'org.videolan.VLC-symbolic.svg',
@@ -874,6 +880,7 @@ link_files = {
     ],
     'pidgin-symbolic.svg': [
         'im.pidgin.Pidgin-symbolic.svg',
+        'im.pidgin.Pidgin3-symbolic.svg',
     ],
     'nheko-symbolic.svg': [
         'im.nheko.Nheko-symbolic.svg',
@@ -936,6 +943,9 @@ link_files = {
     'freecad-symbolic.svg': [
         'freecad-daily-symbolic.svg',
         'org.freecadweb.FreeCAD-symbolic.svg',
+    ],
+    'helio-workstation-symbolic.svg': [
+        'fm.helio.Worksatation-symbolic.svg',
     ],
     'firewall-config-symbolic.svg': [
         'firewall-applet-symbolic.svg',
@@ -1002,6 +1012,9 @@ link_files = {
     ],
     'vscodium-symbolic.svg': [
         'com.vscodium.codium-symbolic.svg',
+    ],
+    'visual-studio-code-symbolic.svg': [
+        'com.visualstudio.code-symbolic.svg',
     ],
     'code-oss-symbolic.svg': [
         'com.visualstudio.code-oss-symbolic.svg',
@@ -1174,10 +1187,6 @@ link_files = {
     'abiword-symbolic.svg': [
         'com.abisource.AbiWord-symbolic.svg',
     ],
-    'visual-studio-code-symbolic.svg': [
-        'code-symbolic.svg',
-        'com.visualstudio.code-symbolic.svg',
-    ],
     'clamtk-symbolic.svg': [
         'clamav-symbolic.svg',
         'com.gitlab.davem.ClamTk-symbolic.svg',
@@ -1317,10 +1326,6 @@ link_files = {
         'sun-javaws32-jdk7-symbolic.svg',
         'sun-javaws32-jdk8-symbolic.svg',
     ],
-    'zen-browser-symbolic.svg': [
-        'appimagekit-zen-browser-symbolic.svg',
-        'io.github.zen_browser.zen-symbolic.svg',
-    ],
     'yuzu-symbolic.svg': [
         'appimagekit-yuzu-symbolic.svg',
         'org.yuzu_emu.yuzu-symbolic.svg',
@@ -1376,6 +1381,11 @@ link_files = {
     'musescore-symbolic.svg': [
         'appimagekit-musescore-symbolic.svg',
         'org.musescore.MuseScore-symbolic.svg',
+    ],
+    'lunarclient-symbolic.svg': [
+        'appimagekit-lunarclient-symbolic.svg',
+        'com.lunarclient.LunarClient-symbolic.svg',
+        'lunar-client-symbolic.svg',
     ],
     'logseq-symbolic.svg': [
         'appimagekit-logseq-symbolic.svg',
@@ -1434,6 +1444,11 @@ link_files = {
         'appimagekit-balena-etcher-electron-symbolic.svg',
         'balena-etcher-electron-symbolic.svg',
         'etcher-electron-symbolic.svg',
+    ],
+    'zen-browser-symbolic.svg': [
+        'app.zen_browser.zen-symbolic.svg',
+        'appimagekit-zen-browser-symbolic.svg',
+        'io.github.zen_browser.zen-symbolic.svg',
     ],
     'androidstudio-symbolic.svg': [
         'android-studio-beta-symbolic.svg',

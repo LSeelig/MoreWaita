@@ -120,6 +120,7 @@ regular_files = [
     'guiscrcpy.svg',
     'hardinfo.svg',
     'headlines.svg',
+    'helio-workstation.svg',
     'heroic.svg',
     'hp_logo.svg',
     'htop.svg',
@@ -167,6 +168,7 @@ regular_files = [
     'linguist.svg',
     'localsend.svg',
     'logseq.svg',
+    'lunarclient.svg',
     'lvim.svg',
     'mailspring.svg',
     'maple.svg',
@@ -226,6 +228,7 @@ regular_files = [
     'osu.svg',
     'pacseek.svg',
     'pamac.svg',
+    'parsehub.svg',
     'pavucontrol.svg',
     'phpstorm.svg',
     'pidgin.svg',
@@ -456,6 +459,9 @@ link_files = {
     ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',
+    ],
+    'virt-manager.svg': [
+        'org.virt_manager.virt-manager.svg',
     ],
     'vlc.svg': [
         'org.videolan.VLC.svg',
@@ -919,6 +925,7 @@ link_files = {
     ],
     'pidgin.svg': [
         'im.pidgin.Pidgin.svg',
+        'im.pidgin.Pidgin3.svg',
     ],
     'nheko.svg': [
         'im.nheko.Nheko.svg',
@@ -983,6 +990,9 @@ link_files = {
         'freecad-daily.svg',
         'org.freecad.FreeCAD.svg',
         'org.freecadweb.FreeCAD.svg',
+    ],
+    'helio-workstation.svg': [
+        'fm.helio.Worksatation.svg',
     ],
     'firewall-config.svg': [
         'firewall-applet.svg',
@@ -1055,6 +1065,10 @@ link_files = {
     'vivaldi.svg': [
         'com.vivaldi.Vivaldi.svg',
         'vivaldi-stable.svg',
+    ],
+    'visual-studio-code.svg': [
+        'com.visualstudio.code.svg',
+        'vscode.svg',
     ],
     'code-oss.svg': [
         'com.visualstudio.code-oss.svg',
@@ -1246,11 +1260,6 @@ link_files = {
     'abiword.svg': [
         'com.abisource.AbiWord.svg',
     ],
-    'visual-studio-code.svg': [
-        'code.svg',
-        'com.visualstudio.code.svg',
-        'vscode.svg',
-    ],
     'clamtk.svg': [
         'clamav.svg',
         'com.gitlab.davem.ClamTk.svg',
@@ -1379,10 +1388,6 @@ link_files = {
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
     ],
-    'zen-browser.svg': [
-        'appimagekit-zen-browser.svg',
-        'io.github.zen_browser.zen.svg',
-    ],
     'yuzu.svg': [
         'appimagekit-yuzu.svg',
         'org.yuzu_emu.yuzu.svg',
@@ -1440,6 +1445,11 @@ link_files = {
         'appimagekit-musescore.svg',
         'org.musescore.MuseScore.svg',
     ],
+    'lunarclient.svg': [
+        'appimagekit-lunarclient.svg',
+        'com.lunarclient.LunarClient.svg',
+        'lunar-client.svg',
+    ],
     'logseq.svg': [
         'appimagekit-logseq.svg',
         'com.logseq.Logseq.svg',
@@ -1495,6 +1505,11 @@ link_files = {
         'appimagekit-balena-etcher-electron.svg',
         'balena-etcher-electron.svg',
         'etcher-electron.svg',
+    ],
+    'zen-browser.svg': [
+        'app.zen_browser.zen.svg',
+        'appimagekit-zen-browser.svg',
+        'io.github.zen_browser.zen.svg',
     ],
     'androidstudio.svg': [
         'android-studio.svg',

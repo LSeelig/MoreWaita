@@ -131,11 +131,12 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/gufw.svg "GUFW")
 ![icon](./scalable/apps/fr.handbrake.ghb.svg "Handbrake")
 ![icon](./scalable/apps/hardinfo.svg "Hardinfo")
+![icon](./scalable/apps/hwloc.svg "Hardware Locality")
 ![icon](./scalable/apps/headlines.svg "Headlines")
+![icon](./scalable/apps/helio-workstation.svg "Helio")
 ![icon](./scalable/apps/heroic.svg "Heroic Launcher")
 ![icon](./scalable/apps/hp_logo.svg "HP")
 ![icon](./scalable/apps/htop.svg "Htop")
-![icon](./scalable/apps/hwloc.svg "Hardware Locality")
 ![icon](./scalable/apps/org.inkscape.Inkscape.svg "Inkscape")
 ![icon](./scalable/apps/input-remapper.svg "Input Remapper")
 ![icon](./scalable/apps/insomnia.svg "Insomnia")
@@ -185,6 +186,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/lightworks.svg "Lightworks")
 ![icon](./scalable/apps/localsend.svg "LocalSend")
 ![icon](./scalable/apps/logseq.svg "Logseq")
+![icon](./scalable/apps/lunarclient.svg "Lunar Client")
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
 ![icon](./scalable/apps/maple.svg "Maple")
@@ -243,6 +245,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pacseek.svg "Pacseek")
 ![icon](./scalable/apps/pamac.svg "Pamac")
 ![icon](./scalable/apps/org.parlatype.Parlatype.svg "Parlatype")
+![icon](./scalable/apps/parsehub.svg "Parsehub")
 ![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
 ![icon](./scalable/apps/pinta.svg "Pinta")
@@ -447,6 +450,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-gettext-translation-template.svg "Translation Template")
 ![icon](./scalable/mimetypes/application-x-gettext-translation.svg "Translation Compiled")
 ![icon](./scalable/mimetypes/text-x-typescript.svg "TypeScript")
+![icon](./scalable/mimetypes/text-x-typst.svg "Typst")
 ![icon](./scalable/mimetypes/text-x-vala.svg "Vala")
 ![icon](./scalable/mimetypes/application-xml.svg "XML")
 ![icon](./scalable/mimetypes/application-x-xopp.svg "xApp")
@@ -459,6 +463,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/virtualbox-vdi.svg "VirtualBox VDI Image")
 ![icon](./scalable/mimetypes/virtualbox-vhd.svg "VirtualBox VHD Image")
 ![icon](./scalable/mimetypes/virtualbox-vmdk.svg "VirtualBox VMDK Image")
+![icon](./scalable/mimetypes/org.wireshark.Wireshark-mimetype.svg "Wireshark Packet Capture")
 </details>
 <details>
 <summary><h3>Devices</h3> <em>(expand)</em></summary>
@@ -548,9 +553,10 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Legacy</h3> <em>(expand)</em></summary>
 
-#### Apps
+#### Apps & MIME types
 ![icon](./scalable/legacy/system-file-manager.svg "File manager")
 ![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
+![icon](./scalable/legacy/package.svg "Package")
 
 #### Categories
 ![icon](./scalable/legacy/applications-accessories.svg "Accessories app category")
@@ -571,8 +577,10 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
 ![icon](./scalable/legacy/preferences-desktop-accessibility.svg "Accessibility preferences")
 ![icon](./scalable/legacy/preferences-desktop-locale.svg "Locale preferences")
+![icon](./scalable/legacy/preferences-desktop-screensaver.svg "Screensaver preferences")
 ![icon](./scalable/legacy/applications-system.svg "System preferences")
 ![icon](./scalable/legacy/system-users.svg "User preferences")
+![icon](./scalable/legacy/preferences-desktop-wallpaper.svg "Wallpaper preferences")
 
 #### Actions
 ![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
@@ -719,7 +727,7 @@ nix-shell -p morewaita-icon-theme
 
 ## Activation
 
-Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
+Either use the `Refine` or `Tweaks` app to choose and activate the icon theme or run the following command:
 
 ```sh
 gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
