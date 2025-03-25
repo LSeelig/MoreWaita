@@ -1,4 +1,4 @@
-scalable_mimes_iconsdir = join_paths(mimes_iconsdir, 'scalable')
+scalable_mimes_iconsdir = join_paths(scalable_iconsdir, 'mimetypes')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
@@ -9,6 +9,7 @@ regular_files = [
     'application-loc+xml.svg',
     'application-mathematica.svg',
     'application-mathematicaplayer.svg',
+    'application-mbox.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',
@@ -21,34 +22,42 @@ regular_files = [
     'application-vnd.comicbook+zip.svg',
     'application-vnd.flatpak.svg',
     'application-vnd.iccprofile.svg',
+    'application-vnd.leocad.svg',
     'application-vnd.scribus.svg',
     'application-vnd.snap.svg',
     'application-vnd.wolfram.mathematica.package.svg',
+    'application-wasm.svg',
     'application-x-adobe-indesign.svg',
     'application-x-audacity-project.svg',
     'application-x-bittorrent.svg',
     'application-x-bitwig-studio.svg',
     'application-x-cd-image.svg',
+    'application-x-cson.svg',
     'application-x-deb.svg',
     'application-x-gettext-translation.svg',
     'application-x-godot-project.svg',
+    'application-x-hwp.svg',
     'application-x-ipynb+json.svg',
     'application-x-iso9600-appimage.svg',
     'application-x-java-archive.svg',
     'application-x-kdenlive.svg',
     'application-x-model.svg',
+    'application-x-musescore4portable+xml.svg',
+    'application-x-musescore4portable.svg',
     'application-x-perl.svg',
     'application-x-photoshop.svg',
     'application-x-php.svg',
     'application-x-python-bytecode.svg',
     'application-x-rpm.svg',
     'application-x-shellscript.svg',
+    'application-x-spectrum.svg',
     'application-x-subrip.svg',
     'application-x-theme.svg',
     'application-x-xopp.svg',
     'application-x-yaml.svg',
     'application-xml.svg',
     'com.bitwig.BitwigStudio.audio-x.dawproject.svg',
+    'image-vnd.djvu.svg',
     'oasis-database-template.svg',
     'oasis-database.svg',
     'oasis-drawing-template.svg',
@@ -68,6 +77,7 @@ regular_files = [
     'oasis-web-template.svg',
     'oasis-web.svg',
     'org.wireshark.Wireshark-mimetype.svg',
+    'text-asciidoc.svg',
     'text-css.svg',
     'text-rust.svg',
     'text-x-arduino.svg',
@@ -75,15 +85,20 @@ regular_files = [
     'text-x-c.svg',
     'text-x-chdr.svg',
     'text-x-clojure.svg',
+    'text-x-cobol.svg',
+    'text-x-coffeescript.svg',
+    'text-x-common-lisp.svg',
     'text-x-cpp.svg',
     'text-x-cpphdr.svg',
     'text-x-csharp.svg',
+    'text-x-fsharp.svg',
     'text-x-gettext-translation-template.svg',
     'text-x-gettext-translation.svg',
     'text-x-go.svg',
     'text-x-java.svg',
     'text-x-javascript.svg',
     'text-x-julia.svg',
+    'text-x-kotlin.svg',
     'text-x-log.svg',
     'text-x-lua.svg',
     'text-x-makefile.svg',
@@ -145,6 +160,9 @@ link_files = {
         'text-x-sass.svg',
         'text-x-scss.svg',
     ],
+    'text-x-fsharp.svg': [
+        'text-fsharp.svg',
+    ],
     'text-x-arduino.svg': [
         'text-arduino.svg',
     ],
@@ -192,6 +210,9 @@ link_files = {
         'openoffice4-drawing-template.svg',
         'openoffice4-oasis-drawing-template.svg',
     ],
+    'image-vnd.djvu.svg': [
+        'image-x-djvu.svg',
+    ],
     'text-x-makefile.svg': [
         'gnome-mime-text-x-makefile.svg',
         'text-x-cmake.svg',
@@ -229,6 +250,9 @@ link_files = {
     ],
     'virtualbox-hdd.svg': [
         'application-x-virtualbox-hdd.svg',
+    ],
+    'application-x-spectrum.svg': [
+        'application-x-spectrum-tzx.svg',
     ],
     'application-x-rpm.svg': [
         'application-x-source-rpm.svg',
@@ -390,6 +414,9 @@ link_files = {
         'libreoffice-text.svg',
         'openoffice4-oasis-text.svg',
     ],
+    'application-vnd.flatpak.svg': [
+        'application-vnd.flatpak.ref.svg',
+    ],
     'application-x-cd-image.svg': [
         'application-vnd.efi.img.svg',
         'application-vnd.efi.iso.svg',
@@ -413,6 +440,10 @@ link_files = {
         'application-x-cbr.svg',
         'application-x-cbt.svg',
         'application-x-cbz.svg',
+    ],
+    'text-x-coffeescript.svg': [
+        'application-vnd.coffeescript.svg',
+        'text-coffeescript.svg',
     ],
     'application-x-iso9600-appimage.svg': [
         'application-vnd.appimage.svg',
@@ -491,6 +522,11 @@ link_files = {
         'application-x-java-applet.svg',
         'application-x-java.svg',
         'text-x-java-source.svg',
+    ],
+    'application-x-hwp.svg': [
+        'application-hwp.svg',
+        'application-hwpx.svg',
+        'application-x-hwpx.svg',
     ],
     'application-loc+xml.svg': [
         'application-geo+json.svg',

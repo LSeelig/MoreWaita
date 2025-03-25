@@ -1,4 +1,4 @@
-scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
+scalable_places_iconsdir = join_paths(scalable_iconsdir, 'places')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
@@ -98,6 +98,8 @@ regular_files = [
     'folder-opensuse.svg',
     'folder-platformio-legacy.svg',
     'folder-platformio.svg',
+    'folder-podcast-legacy.svg',
+    'folder-podcast.svg',
     'folder-private-legacy.svg',
     'folder-private.svg',
     'folder-projects-legacy.svg',
@@ -140,11 +142,15 @@ regular_files = [
     'folder-wine.svg',
     'folder-work-legacy.svg',
     'folder-work.svg',
+    'go-home.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'folder-recent.svg': [
+        'document-open-recent.svg',
+    ],
     'folder-bitwig.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder.svg',
     ],

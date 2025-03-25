@@ -1,11 +1,13 @@
-scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
+scalable_legacy_iconsdir = join_paths(scalable_iconsdir, 'legacy')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'accessories-text-editor.svg',
     'applications-accessories.svg',
+    'applications-all.svg',
     'applications-development.svg',
     'applications-education.svg',
+    'applications-electronics.svg',
     'applications-engineering.svg',
     'applications-games.svg',
     'applications-graphics.svg',
@@ -38,13 +40,19 @@ link_files = {
     'applications-system.svg': [
         'preferences-system.svg',
     ],
+    'applications-all.svg': [
+        'gnome-applications.svg',
+    ],
+    'preferences-desktop-locale.svg': [
+        'applications-education-language.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 
-install_data(regular_files, install_dir: scalable_places_iconsdir)
+install_data(regular_files, install_dir: scalable_legacy_iconsdir)
 
 foreach dest_file, link_files_for_dest : link_files
     foreach link_file : link_files_for_dest
-        install_symlink(link_file, install_dir: scalable_places_iconsdir, pointing_to: dest_file)
+        install_symlink(link_file, install_dir: scalable_legacy_iconsdir, pointing_to: dest_file)
     endforeach
 endforeach

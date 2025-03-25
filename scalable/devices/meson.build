@@ -1,13 +1,16 @@
-scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
+scalable_devices_iconsdir = join_paths(scalable_iconsdir, 'devices')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'audio-card.svg',
+    'audio-speakers.svg',
     'cpu.svg',
     'drive-harddisk-solidstate.svg',
     'keyboard.svg',
+    'media-tape.svg',
     'memory.svg',
     'network-card.svg',
+    'uninterruptible-power-supply.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
@@ -37,10 +40,10 @@ link_files = {
     # DO NOT REMOVE: End of link segment
 }
 
-install_data(regular_files, install_dir: scalable_places_iconsdir)
+install_data(regular_files, install_dir: scalable_devices_iconsdir)
 
 foreach dest_file, link_files_for_dest : link_files
     foreach link_file : link_files_for_dest
-        install_symlink(link_file, install_dir: scalable_places_iconsdir, pointing_to: dest_file)
+        install_symlink(link_file, install_dir: scalable_devices_iconsdir, pointing_to: dest_file)
     endforeach
 endforeach
