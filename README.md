@@ -40,6 +40,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/audacity.svg "Audacity")
 ![icon](./scalable/apps/augustus.svg "Augustus")
 ![icon](./scalable/apps/avogadro.svg "Avogadro")
+![icon](./scalable/apps/bambustudio.svg "Bambu Studio")
 ![icon](./scalable/apps/betterbird.svg "Betterbird")
 ![icon](./scalable/apps/bitwarden.svg "Bitwarden")
 ![icon](./scalable/apps/bitwig-studio.svg "Bitwig Studio")
@@ -51,6 +52,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/boxbuddyrs.svg "BoxBuddy")
 ![icon](./scalable/apps/boxy-svg.svg "Boxy SVG")
 ![icon](./scalable/apps/brave-desktop.svg "Brave")
+![icon](./scalable/apps/briar.svg "Briar")
 ![icon](./scalable/apps/dev.bsnes.bsnes.svg "BSNES")
 ![icon](./scalable/apps/btop.svg "Btop")
 ![icon](./scalable/apps/buzz.svg "Buzz")
@@ -119,6 +121,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/fuse-emulator.svg "Fuse Spectrum Emulator")
 ![icon](./scalable/apps/gda-browser-5.0.svg "Gda Browser")
 ![icon](./scalable/apps/gda-control-center.svg "Gda Control Center")
+![icon](./scalable/apps/gdevelop.svg "GDevelop")
 ![icon](./scalable/apps/geany.svg "Geany")
 ![icon](./scalable/apps/geneious.svg "Geneious")
 ![icon](./scalable/apps/genymotion.svg "Genymotion")
@@ -152,6 +155,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/org.inkscape.Inkscape.svg "Inkscape")
 ![icon](./scalable/apps/input-remapper.svg "Input Remapper")
 ![icon](./scalable/apps/insomnia.svg "Insomnia")
+![icon](./scalable/apps/interstellar.svg "Interstellar")
 ![icon](./scalable/apps/java-openjdk.svg "Java")
 ![icon](./scalable/apps/jdownloader.svg "JDownloader")
 ![icon](./scalable/apps/jellyfin.svg "Jellyfin Media Player")
@@ -180,6 +184,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/kitty.svg "Kitty")
 ![icon](./scalable/apps/kodi.svg "Kodi")
 ![icon](./scalable/apps/kolourpaint.svg "Kolourpaint")
+![icon](./scalable/apps/kotatogram.svg "Kotatogram")
 ![icon](./scalable/apps/krita.svg "Krita")
 ![icon](./scalable/apps/kruler.svg "Kruler")
 ![icon](./scalable/apps/kvantum.svg "Kvantum")
@@ -202,6 +207,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/localsend.svg "LocalSend")
 ![icon](./scalable/apps/logseq.svg "Logseq")
 ![icon](./scalable/apps/lpub3d.svg "LPub3D")
+![icon](./scalable/apps/lunacy.svg "Lunacy")
 ![icon](./scalable/apps/lunarclient.svg "Lunar Client")
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
@@ -225,6 +231,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mixxx.svg "Mixxx")
 ![icon](./scalable/apps/mockoon.svg "Mockoon")
 ![icon](./scalable/apps/monero.svg "Monero")
+![icon](./scalable/apps/mousam.svg "Mousam")
 ![icon](./scalable/apps/mpv.svg "mpv")
 ![icon](./scalable/apps/mumble.svg "Mumble")
 ![icon](./scalable/apps/musescore.svg "Musescore")
@@ -250,6 +257,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/org.onlyoffice.desktopeditors.svg "ONLYOFFICE")
 ![icon](./scalable/apps/openbabel.svg "Open Babel")
 ![icon](./scalable/apps/openboard.svg "OpenBoard")
+![icon](./scalable/apps/openchrom.svg "OpenChrom")
 ![icon](./scalable/apps/openra-cnc.svg "OpenRA Command & Conquer")
 ![icon](./scalable/apps/openra-d2k.svg "OpenRA Dune 2000")
 ![icon](./scalable/apps/openra-ra.svg "OpenRA Red Alert")
@@ -264,7 +272,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pamac.svg "Pamac")
 ![icon](./scalable/apps/org.parlatype.Parlatype.svg "Parlatype")
 ![icon](./scalable/apps/parsehub.svg "Parsehub")
-![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
+![icon](./scalable/apps/pianoteq.svg "Pianoteq")
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
 ![icon](./scalable/apps/pinta.svg "Pinta")
 ![icon](./scalable/apps/net.poedit.Poedit.svg "Poedit")
@@ -281,6 +289,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/proton-pass.svg "Proton Pass")
 ![icon](./scalable/apps/protonvpn-gui.svg "Proton VPN")
 ![icon](./scalable/apps/pulsar.svg "Pulsar")
+![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
 ![icon](./scalable/apps/pure-maps.svg "Pure Maps")
 ![icon](./scalable/apps/pymol.svg "PyMOL")
 ![icon](./scalable/apps/qbittorrent.svg "qBitTorrent")
@@ -314,6 +323,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/setzer.svg "Setzer")
 ![icon](./scalable/apps/shotwell.svg "Shotwell")
 ![icon](./scalable/apps/one.alynx.showmethekey.svg "Show Me the Key")
+![icon](./scalable/apps/shotcut.svg "Shotcut")
 ![icon](./scalable/apps/signal-desktop.svg "Signal")
 ![icon](./scalable/apps/sioyek.svg "Sioyek")
 ![icon](./scalable/apps/skypeforlinux.svg "Skype")
@@ -335,6 +345,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/surfshark.svg "Surfshark")
 ![icon](./scalable/apps/suyu.svg "Suyu")
 ![icon](./scalable/apps/syncthing-gtk.svg "Syncthing")
+![icon](./scalable/apps/sysd-manager.svg "SysD Manager")
 ![icon](./scalable/apps/teams.svg "Teams")
 ![icon](./scalable/apps/TeamViewer.svg "TeamViewer")
 ![icon](./scalable/apps/telegram.svg "Telegram")
@@ -471,6 +482,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/oasis-empty-template.svg "Office Empty Template")
 ![icon](./scalable/mimetypes/text-x-patch.svg "Patch")
 ![icon](./scalable/mimetypes/application-x-perl.svg "Perl")
+![icon](./scalable/mimetypes/application-pdf.svg "PDF")
 ![icon](./scalable/mimetypes/application-pgp-encrypted.svg "PGP Encrypted")
 ![icon](./scalable/mimetypes/application-pgp-keys.svg "PGP Key")
 ![icon](./scalable/mimetypes/application-pgp-signature.svg "PGP Signature")
@@ -594,6 +606,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-shell.svg "Shell")
 ![icon](./scalable/places/folder-syncthing.svg "Syncthing")
 ![icon](./scalable/places/folder-temp.svg "Temp")
+![icon](./scalable/places/folder-torrent.svg "Torrent")
 ![icon](./scalable/places/folder-translation.svg "Translation")
 ![icon](./scalable/places/folder-ubuntu.svg "Ubuntu")
 ![icon](./scalable/places/folder-user.svg "User")
@@ -765,12 +778,6 @@ Install via [@trixieua's COPR](https://copr.fedorainfracloud.org/coprs/trixieua/
 
 ```sh
 dnf copr enable trixieua/morewaita-icon-theme && dnf install morewaita-icon-theme
-```
-
-or via [@dusansimic's COPR](https://copr.fedorainfracloud.org/coprs/dusansimic/themes):
-
-```sh
-dnf copr enable dusansimic/themes && dnf install morewaita-icon-theme
 ```
 
 #### Ubuntu/Debian Linux

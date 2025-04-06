@@ -27,6 +27,7 @@ regular_files = [
     'audacity.svg',
     'augustus.svg',
     'avogadro.svg',
+    'bambustudio.svg',
     'betterbird.svg',
     'bitwarden.svg',
     'bitwig-studio.svg',
@@ -37,6 +38,7 @@ regular_files = [
     'boxbuddyrs.svg',
     'boxy-svg.svg',
     'brave-desktop.svg',
+    'briar.svg',
     'btop.svg',
     'buzz.svg',
     'calibre-ebook-edit.svg',
@@ -104,6 +106,7 @@ regular_files = [
     'fuse-emulator.svg',
     'gda-browser-5.0.svg',
     'gda-control-center.svg',
+    'gdevelop.svg',
     'geany.svg',
     'geneious.svg',
     'genymotion.svg',
@@ -140,6 +143,7 @@ regular_files = [
     'input-remapper.svg',
     'insomnia.svg',
     'intellij.svg',
+    'interstellar.svg',
     'io.element.Element.svg',
     'io.github.alainm23.planify.svg',
     'io.github.quodlibet.ExFalso.svg',
@@ -160,6 +164,7 @@ regular_files = [
     'kitty.svg',
     'kodi.svg',
     'kolourpaint.svg',
+    'kotatogram.svg',
     'krita.svg',
     'kruler.svg',
     'kvantum.svg',
@@ -183,6 +188,7 @@ regular_files = [
     'localsend.svg',
     'logseq.svg',
     'lpub3d.svg',
+    'lunacy.svg',
     'lunarclient.svg',
     'lvim.svg',
     'mailspring.svg',
@@ -202,6 +208,7 @@ regular_files = [
     'mixxx.svg',
     'mockoon.svg',
     'monero.svg',
+    'mousam.svg',
     'mpv.svg',
     'mumble.svg',
     'musescore.svg',
@@ -226,6 +233,7 @@ regular_files = [
     'onetagger.svg',
     'openbabel.svg',
     'openboard.svg',
+    'openchrom.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
@@ -248,6 +256,7 @@ regular_files = [
     'parsehub.svg',
     'pavucontrol.svg',
     'phpstorm.svg',
+    'pianoteq.svg',
     'pidgin.svg',
     'pinta.svg',
     'polychromatic.svg',
@@ -294,6 +303,7 @@ regular_files = [
     'scribus.svg',
     'session-desktop.svg',
     'setzer.svg',
+    'shotcut.svg',
     'shotwell.svg',
     'signal-desktop.svg',
     'sioyek.svg',
@@ -316,6 +326,7 @@ regular_files = [
     'surfshark.svg',
     'suyu.svg',
     'syncthing-gtk.svg',
+    'sysd-manager.svg',
     'system-software-install.svg',
     'teams.svg',
     'telegram.svg',
@@ -492,6 +503,9 @@ link_files = {
     'net.poedit.Poedit.svg': [
         'poedit.svg',
     ],
+    'pianoteq.svg': [
+        'pianoteq-stage.svg',
+    ],
     'pamac.svg': [
         'pamac-manager.svg',
         'pamac-updater.svg',
@@ -541,6 +555,9 @@ link_files = {
     ],
     'signal-desktop.svg': [
         'org.signal.Signal.svg',
+    ],
+    'shotcut.svg': [
+        'org.shotcut.Shotcut.svg',
     ],
     'ryujinx.svg': [
         'org.ryujinx.Ryujinx.svg',
@@ -663,6 +680,9 @@ link_files = {
     'foot.svg': [
         'org.codeberg.dnkl.foot.svg',
     ],
+    'briar.svg': [
+        'org.briarproject.Briar.svg',
+    ],
     'menulibre.svg': [
         'org.bluesabre.MenuLibre.svg',
     ],
@@ -674,6 +694,9 @@ link_files = {
     ],
     'org.onlyoffice.desktopeditors.svg': [
         'onlyoffice-desktopeditors.svg',
+    ],
+    'interstellar.svg': [
+        'one.jwr.interstellar.svg',
     ],
     'floorp.svg': [
         'one.ablaze.floorp.svg',
@@ -979,8 +1002,14 @@ link_files = {
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
     ],
+    'sysd-manager.svg': [
+        'io.github.plrigaux.sysd-manager.svg',
+    ],
     'gimagereader.svg': [
         'io.github.manisandro.gImageReader.svg',
+    ],
+    'kotatogram.svg': [
+        'io.github.kotatogram.svg',
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',
@@ -995,8 +1024,14 @@ link_files = {
     'buzz.svg': [
         'io.github.chidiwilliams.Buzz.svg',
     ],
+    'mousam.svg': [
+        'io.github.amit9838.mousam.svg',
+    ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',
+    ],
+    'gdevelop.svg': [
+        'io.gdevelop.ide.svg',
     ],
     'frappe-books.svg': [
         'io.frappe.books.svg',
@@ -1246,6 +1281,9 @@ link_files = {
     'tidal-hifi.svg': [
         'com.mastermindzh.tidal-hifi.svg',
     ],
+    'openchrom.svg': [
+        'com.lablicate.OpenChrom.svg',
+    ],
     'webstorm.svg': [
         'com.jetbrains.WebStorm.svg',
     ],
@@ -1294,6 +1332,9 @@ link_files = {
     ],
     'clion.svg': [
         'com.jetbrains.CLion.svg',
+    ],
+    'lunacy.svg': [
+        'com.icons8.Lunacy.svg',
     ],
     'whatsapp.svg': [
         'com.github.xeco23.WasIstLos.svg',
@@ -1356,6 +1397,9 @@ link_files = {
     ],
     'bitwig-studio.svg': [
         'com.bitwig.BitwigStudio.svg',
+    ],
+    'bambustudio.svg': [
+        'com.bambulab.BambuStudio.svg',
     ],
     'anydesk.svg': [
         'com.anydesk.Anydesk.svg',
