@@ -2,6 +2,7 @@ scalable_legacy_iconsdir = join_paths(scalable_iconsdir, 'legacy')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'accessories-character-map.svg',
     'accessories-text-editor.svg',
     'applications-accessories.svg',
     'applications-all.svg',
@@ -22,13 +23,19 @@ regular_files = [
     'preferences-desktop-accessibility.svg',
     'preferences-desktop-locale.svg',
     'preferences-desktop-screensaver.svg',
+    'preferences-desktop-theme.svg',
     'preferences-desktop-wallpaper.svg',
     'preferences-desktop.svg',
+    'preferences-system-network.svg',
+    'software-sources.svg',
+    'synaptic.svg',
     'system-file-manager.svg',
     'system-lock-screen.svg',
     'system-log-out.svg',
     'system-reboot.svg',
     'system-shutdown.svg',
+    'system-software-install.svg',
+    'system-software-update.svg',
     'system-suspend-hibernate.svg',
     'system-suspend.svg',
     'system-users.svg',
@@ -37,6 +44,12 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'software-sources.svg': [
+        'x-system-software-sources.svg',
+    ],
+    'system-software-install.svg': [
+        'system-software-installer.svg',
+    ],
     'applications-system.svg': [
         'preferences-system.svg',
     ],

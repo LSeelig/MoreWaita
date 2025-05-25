@@ -7,10 +7,11 @@ regular_files = [
     'GrandOrgue.svg',
     'MediathekView.svg',
     'Notesnook.svg',
+    'PrusaSlicer-gcodeviewer.svg',
+    'PrusaSlicer.svg',
     'TeamViewer.svg',
     'Zoom.svg',
     'abiword.svg',
-    'accessories-character-map.svg',
     'alacarte.svg',
     'alacritty.svg',
     'android-studio-canary.svg',
@@ -20,6 +21,7 @@ regular_files = [
     'anytype.svg',
     'app.bluebubbles.BlueBubbles.svg',
     'appflowy.svg',
+    'apple-music.svg',
     'ardour.svg',
     'arduino.svg',
     'assistant.svg',
@@ -54,6 +56,7 @@ regular_files = [
     'clion.svg',
     'code-oss.svg',
     'codeblocks.svg',
+    'com.fender.studio.svg',
     'com.github.eneshecan.WhatsAppForLinux.svg',
     'com.github.rafostar.Clapper.svg',
     'com.obsproject.Studio.svg',
@@ -73,9 +76,12 @@ regular_files = [
     'deezer.svg',
     'designer.svg',
     'dev.bsnes.bsnes.svg',
+    'dev.deedles.Trayscale.svg',
     'discord-canary.svg',
     'discord.svg',
+    'drawio.svg',
     'dropbox.svg',
+    'dune3d.svg',
     'eclipse.svg',
     'electron.svg',
     'electrum.svg',
@@ -95,6 +101,7 @@ regular_files = [
     'fleet.svg',
     'flightgear.svg',
     'floorp.svg',
+    'flowblade.svg',
     'foobar2000.svg',
     'foot.svg',
     'fr.handbrake.ghb.svg',
@@ -121,7 +128,10 @@ regular_files = [
     'godot.svg',
     'goland.svg',
     'google-chrome.svg',
+    'google-docs.svg',
     'google-earth.svg',
+    'google-sheets.svg',
+    'google-slides.svg',
     'gparted.svg',
     'gpsd-logo.svg',
     'grapejuice-roblox-player.svg',
@@ -185,6 +195,7 @@ regular_files = [
     'liferea.svg',
     'lightworks.svg',
     'linguist.svg',
+    'linux-assistant.svg',
     'localsend.svg',
     'logseq.svg',
     'lpub3d.svg',
@@ -263,8 +274,6 @@ regular_files = [
     'popcorntime.svg',
     'portmaster.svg',
     'postman.svg',
-    'preferences-desktop-theme.svg',
-    'preferences-system-network.svg',
     'prismlauncher.svg',
     'projectM.svg',
     'proton-mail.svg',
@@ -283,6 +292,7 @@ regular_files = [
     'qt5ct.svg',
     'qtcreator.svg',
     'qtdesignstudio.svg',
+    'qucs-s.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
     'rawtherapee.svg',
@@ -293,6 +303,7 @@ regular_files = [
     'ringracers.svg',
     'rocketchat.svg',
     'rpi-imager.svg',
+    'rpminstall.svg',
     'rstudio.svg',
     'rubymine.svg',
     'rustdesk.svg',
@@ -327,7 +338,6 @@ regular_files = [
     'suyu.svg',
     'syncthing-gtk.svg',
     'sysd-manager.svg',
-    'system-software-install.svg',
     'teams.svg',
     'telegram.svg',
     'tenacity.svg',
@@ -336,6 +346,7 @@ regular_files = [
     'texts.svg',
     'thunderbird.svg',
     'tidal-hifi.svg',
+    'timeshift.svg',
     'todoist.svg',
     'tor-browser.svg',
     'trivalent.svg',
@@ -363,6 +374,7 @@ regular_files = [
     'webcord.svg',
     'webstorm.svg',
     'wezterm.svg',
+    'whatsapp-business.svg',
     'windscribe.svg',
     'wireshark.svg',
     'wonderpen.svg',
@@ -376,6 +388,10 @@ regular_files = [
     'zed.svg',
     'zen-browser.svg',
     'zim.svg',
+    'zoho-mail.svg',
+    'zoho-sheet.svg',
+    'zoho-show.svg',
+    'zoho-writer.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -448,11 +464,6 @@ link_files = {
     'veracrypt.svg': [
         'veracrypt.xpm.svg',
     ],
-    'Zoom.svg': [
-        'us.zoom.Zoom.svg',
-        'zoom-desktop.svg',
-        'zoom-icon.svg',
-    ],
     'cawbird.svg': [
         'uk.co.ibboard.cawbird.svg',
     ],
@@ -461,11 +472,6 @@ link_files = {
     ],
     'TeamViewer.svg': [
         'teamviewer.svg',
-    ],
-    'system-software-install.svg': [
-        'synaptic.svg',
-        'system-software-installer.svg',
-        'system-software-update.svg',
     ],
     'carla.svg': [
         'studio.kx.carla.svg',
@@ -664,6 +670,9 @@ link_files = {
     ],
     'electrum.svg': [
         'org.electrum.electrum.svg',
+    ],
+    'dune3d.svg': [
+        'org.dune3d.dune3d.svg',
     ],
     'darktable.svg': [
         'org.darktable.Darktable.svg',
@@ -1002,6 +1011,9 @@ link_files = {
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
     ],
+    'qucs-s.svg': [
+        'io.github.ra3xdh.qucs_s.svg',
+    ],
     'sysd-manager.svg': [
         'io.github.plrigaux.sysd-manager.svg',
     ],
@@ -1010,6 +1022,12 @@ link_files = {
     ],
     'kotatogram.svg': [
         'io.github.kotatogram.svg',
+    ],
+    'flowblade.svg': [
+        'io.github.jliljebl.Flowblade.svg',
+    ],
+    'linux-assistant.svg': [
+        'io.github.jean28518.Linux-Assistant.svg',
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',
@@ -1097,9 +1115,6 @@ link_files = {
     ],
     'gnome-nettool.svg': [
         'gnome-nettools.svg',
-    ],
-    'accessories-character-map.svg': [
-        'gnome-character-map.svg',
     ],
     'genymotion.svg': [
         'genymotion-bin.svg',
@@ -1252,6 +1267,14 @@ link_files = {
     'qq.svg': [
         'com.qq.QQ.svg',
     ],
+    'PrusaSlicer.svg': [
+        'com.prusa3d.PrusaSlicer.svg',
+        'prusa-slicer.svg',
+    ],
+    'PrusaSlicer-gcodeviewer.svg': [
+        'com.prusa3d.PrusaSlicer.GCodeViewer.svg',
+        'prusa-slicer-gcodeviewer.svg',
+    ],
     '0ad.svg': [
         'com.play0ad.zeroad.svg',
     ],
@@ -1283,6 +1306,9 @@ link_files = {
     ],
     'openchrom.svg': [
         'com.lablicate.OpenChrom.svg',
+    ],
+    'drawio.svg': [
+        'com.jgraph.drawio.desktop.svg',
     ],
     'webstorm.svg': [
         'com.jetbrains.WebStorm.svg',
@@ -1540,6 +1566,16 @@ link_files = {
         'sun-javaws32-jdk6.svg',
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
+    ],
+    'Zoom.svg': [
+        'application-x-zoom.svg',
+        'us.zoom.Zoom.svg',
+        'zoom-desktop.svg',
+        'zoom-icon.svg',
+    ],
+    'zoho-mail.svg': [
+        'appimagekit-zoho-mail-desktop.svg',
+        'zoho-mail-desktop.svg',
     ],
     'yuzu.svg': [
         'appimagekit-yuzu.svg',
