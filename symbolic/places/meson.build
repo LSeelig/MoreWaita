@@ -54,6 +54,7 @@ regular_files = [
     'folder-openscad-symbolic.svg',
     'folder-opensuse-symbolic.svg',
     'folder-platformio-symbolic.svg',
+    'folder-plugdata-symbolic.svg',
     'folder-podcast-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
@@ -62,6 +63,7 @@ regular_files = [
     'folder-python-symbolic.svg',
     'folder-r-symbolic.svg',
     'folder-raspberry-pi-symbolic.svg',
+    'folder-reaper-symbolic.svg',
     'folder-recent-symbolic.svg',
     'folder-redhat-symbolic.svg',
     'folder-ruby-symbolic.svg',
@@ -127,6 +129,9 @@ link_files = {
     'folder-recent-symbolic.svg': [
         'folder-recent-legacy-symbolic.svg',
     ],
+    'folder-reaper-symbolic.svg': [
+        'folder-reaper-legacy-symbolic.svg',
+    ],
     'folder-raspberry-pi-symbolic.svg': [
         'folder-raspberry-pi-legacy-symbolic.svg',
     ],
@@ -139,6 +144,9 @@ link_files = {
     'folder-podcast-symbolic.svg': [
         'folder-podcast-legacy-symbolic.svg',
     ],
+    'folder-plugdata-symbolic.svg': [
+        'folder-plugdata-legacy-symbolic.svg',
+    ],
     'folder-platformio-symbolic.svg': [
         'folder-platformio-legacy-symbolic.svg',
     ],
@@ -150,6 +158,10 @@ link_files = {
     ],
     'folder-onedrive-symbolic.svg': [
         'folder-onedrive-legacy-symbolic.svg',
+    ],
+    '../apps/obs-symbolic.svg': [
+        'folder-obs-legacy-symbolic.svg',
+        'folder-obs-symbolic.svg',
     ],
     'folder-nix-symbolic.svg': [
         'folder-nix-legacy-symbolic.svg',
