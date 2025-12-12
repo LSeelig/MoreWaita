@@ -3,6 +3,8 @@ symbolic_apps_iconsdir = join_paths(symbolic_iconsdir, 'apps')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     '0ad-symbolic.svg',
+    '1password-symbolic.svg',
+    'AmneziaVPN-symbolic.svg',
     'CMakeSetup-symbolic.svg',
     'GPU_Viewer-symbolic.svg',
     'GrandOrgue-symbolic.svg',
@@ -13,9 +15,13 @@ regular_files = [
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
     'abiword-symbolic.svg',
+    'aegisub-symbolic.svg',
+    'affinity-symbolic.svg',
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
+    'angryip-symbolic.svg',
     'anki-symbolic.svg',
+    'antimicrox-symbolic.svg',
     'anydesk-symbolic.svg',
     'anytype-symbolic.svg',
     'app.bluebubbles.BlueBubbles-symbolic.svg',
@@ -43,6 +49,7 @@ regular_files = [
     'brave-desktop-symbolic.svg',
     'briar-symbolic.svg',
     'btop-symbolic.svg',
+    'burp-symbolic.svg',
     'buzz-symbolic.svg',
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
@@ -51,6 +58,7 @@ regular_files = [
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
     'cinecred-symbolic.svg',
+    'cities-skylines-2-symbolic.svg',
     'ckb-next-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
@@ -83,6 +91,7 @@ regular_files = [
     'dev.deedles.Trayscale-symbolic.svg',
     'devpod-symbolic.svg',
     'discord-symbolic.svg',
+    'dosbox-staging-symbolic.svg',
     'drawio-symbolic.svg',
     'dropbox-symbolic.svg',
     'dune3d-symbolic.svg',
@@ -93,11 +102,13 @@ regular_files = [
     'emacs-symbolic.svg',
     'endless-sky-symbolic.svg',
     'enpass-symbolic.svg',
+    'ente-auth-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
     'ferdium-symbolic.svg',
     'fgcom-symbolic.svg',
     'figma-symbolic.svg',
+    'filendesktop-symbolic.svg',
     'filezilla-symbolic.svg',
     'firefox-symbolic.svg',
     'firewall-config-symbolic.svg',
@@ -128,7 +139,7 @@ regular_files = [
     'geneious-symbolic.svg',
     'genymotion-symbolic.svg',
     'geogebra-symbolic.svg',
-    'ghostty-symbolic.svg',
+    'ghidra-symbolic.svg',
     'gimagereader-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
@@ -137,6 +148,7 @@ regular_files = [
     'godot-symbolic.svg',
     'goland-symbolic.svg',
     'gonnect-symbolic.svg',
+    'goofcord-symbolic.svg',
     'google-chrome-symbolic.svg',
     'google-docs-symbolic.svg',
     'google-earth-symbolic.svg',
@@ -153,14 +165,19 @@ regular_files = [
     'gufw-symbolic.svg',
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',
+    'hedgemodmanager-symbolic.svg',
     'helio-workstation-symbolic.svg',
+    'helium-symbolic.svg',
+    'helix-symbolic.svg',
     'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
     'hu.irl.cameractrls-symbolic.svg',
     'hydrogen-symbolic.svg',
+    'input-leap-symbolic.svg',
     'input-remapper-symbolic.svg',
     'insomnia-symbolic.svg',
+    'instagram-symbolic.svg',
     'intellij-symbolic.svg',
     'interstellar-symbolic.svg',
     'io.element.Element-symbolic.svg',
@@ -176,6 +193,7 @@ regular_files = [
     'julia-symbolic.svg',
     'julius-symbolic.svg',
     'jupyter-symbolic.svg',
+    'kakaotalk-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
@@ -192,6 +210,7 @@ regular_files = [
     'lapce-symbolic.svg',
     'lazarus-symbolic.svg',
     'lazpaint-symbolic.svg',
+    'legcord-symbolic.svg',
     'leocad-symbolic.svg',
     'librecad-symbolic.svg',
     'libreoffice-base-symbolic.svg',
@@ -292,6 +311,7 @@ regular_files = [
     'pinta-symbolic.svg',
     'pixelwheels-symbolic.svg',
     'plugdata-symbolic.svg',
+    'podman-desktop-symbolic.svg',
     'polychromatic-symbolic.svg',
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',
@@ -326,6 +346,7 @@ regular_files = [
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
     'remmina-symbolic.svg',
+    'remnote-symbolic.svg',
     'resolve-symbolic.svg',
     'retroarch-symbolic.svg',
     'revolt-desktop-symbolic.svg',
@@ -341,6 +362,7 @@ regular_files = [
     'rustrover-symbolic.svg',
     'ryujinx-symbolic.svg',
     'saber-symbolic.svg',
+    'sameboy-symbolic.svg',
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
     'scummvm-symbolic.svg',
@@ -358,11 +380,14 @@ regular_files = [
     'sonar-symbolic.svg',
     'sound-juicer-symbolic.svg',
     'soundconverter-symbolic.svg',
+    'soundux-symbolic.svg',
     'spek-symbolic.svg',
     'spotify-symbolic.svg',
     'spyder-symbolic.svg',
     'standard-notes-symbolic.svg',
+    'stardew-valley-symbolic.svg',
     'steam-icon-symbolic.svg',
+    'steamvr-symbolic.svg',
     'stellarium-symbolic.svg',
     'stoken-gui-symbolic.svg',
     'strawberry-symbolic.svg',
@@ -374,11 +399,15 @@ regular_files = [
     'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
     'sysd-manager-symbolic.svg',
+    'tauonmb-symbolic.svg',
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
     'tenacity-symbolic.svg',
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
+    'the-sims-4-symbolic.svg',
+    'thedarkmod-symbolic.svg',
+    'throne-symbolic.svg',
     'thunderbird-symbolic.svg',
     'tidal-hifi-symbolic.svg',
     'timeshift-symbolic.svg',
@@ -393,6 +422,7 @@ regular_files = [
     'vesktop-symbolic.svg',
     'via-nativia-symbolic.svg',
     'viber-symbolic.svg',
+    'vice-symbolic.svg',
     'vim-symbolic.svg',
     'vipsdisp-symbolic.svg',
     'virt-manager-symbolic.svg',
@@ -413,14 +443,24 @@ regular_files = [
     'whatsapp-business-symbolic.svg',
     'whatsapp-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wine-help-symbolic.svg',
+    'wine-notepad-symbolic.svg',
+    'wine-symbolic.svg',
+    'wine-uninstaller-symbolic.svg',
+    'winecfg-symbolic.svg',
+    'winefile-symbolic.svg',
+    'winemine-symbolic.svg',
+    'winetricks-symbolic.svg',
     'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
     'xemu-symbolic.svg',
     'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
+    'xterm-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'youtube-music-symbolic.svg',
+    'youtube-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
     'zathura-symbolic.svg',
@@ -709,6 +749,9 @@ link_files = {
     'gimp-symbolic.svg': [
         'org.gimp.GIMP-symbolic.svg',
     ],
+    'ghidra-symbolic.svg': [
+        'org.ghidra_sre.Ghidra-symbolic.svg',
+    ],
     'geogebra-symbolic.svg': [
         'org.geogebra.GeoGebra-symbolic.svg',
     ],
@@ -767,6 +810,12 @@ link_files = {
     'audacity-symbolic.svg': [
         'org.audacityteam.Audacity-symbolic.svg',
     ],
+    'angryip-symbolic.svg': [
+        'org.angryip.ipscan-symbolic.svg',
+    ],
+    'aegisub-symbolic.svg': [
+        'org.aegisub.Aegisub-symbolic.svg',
+    ],
     'openshot-symbolic.svg': [
         'openshot-qt-symbolic.svg',
         'org.openshot.OpenShot-symbolic.svg',
@@ -819,10 +868,17 @@ link_files = {
     'liferea-symbolic.svg': [
         'net.sourceforge.liferea-symbolic.svg',
     ],
+    'vice-symbolic.svg': [
+        'net.sf.VICE-symbolic.svg',
+        'vice-emu-symbolic.svg',
+    ],
     'scribus-symbolic.svg': [
         'net.scribus.Scribus-symbolic.svg',
         'scribus-ng-symbolic.svg',
         'scribus-trunk-symbolic.svg',
+    ],
+    'burp-symbolic.svg': [
+        'net.portswigger.BurpSuite-Community-symbolic.svg',
     ],
     'openra-d2k-symbolic.svg': [
         'net.openra.OpenRA.openra-d2k-symbolic.svg',
@@ -901,6 +957,21 @@ link_files = {
     'xonotic-symbolic.svg': [
         'lutris_xonotic-symbolic.svg',
         'org.xonotic.Xonotic-symbolic.svg',
+    ],
+    'the-sims-4-symbolic.svg': [
+        'lutris_the-sims-4-symbolic.svg',
+        'steam_icon_1222670-symbolic.svg',
+    ],
+    'thedarkmod-symbolic.svg': [
+        'lutris_the-dark-mod-symbolic.svg',
+    ],
+    'stardew-valley-symbolic.svg': [
+        'lutris_stardew-valley-symbolic.svg',
+        'steam_icon_413150-symbolic.svg',
+    ],
+    'cities-skylines-2-symbolic.svg': [
+        'lutris_cities-skylines-2-symbolic.svg',
+        'steam_icon_949230-symbolic.svg',
     ],
     'minetest-symbolic.svg': [
         'luanti-symbolic.svg',
@@ -1068,6 +1139,9 @@ link_files = {
         'jasp-desktop-symbolic.svg',
         'org.jaspstats.JASP-symbolic.svg',
     ],
+    'podman-desktop-symbolic.svg': [
+        'io.podman_desktop.PodmanDesktop-symbolic.svg',
+    ],
     'nvim-symbolic.svg': [
         'io.neovim.nvim-symbolic.svg',
         'nvim-gtk-symbolic.svg',
@@ -1100,6 +1174,9 @@ link_files = {
     'webcord-symbolic.svg': [
         'io.github.spacingbat3.webcord-symbolic.svg',
     ],
+    'sameboy-symbolic.svg': [
+        'io.github.sameboy.SameBoy-symbolic.svg',
+    ],
     'ryujinx-symbolic.svg': [
         'io.github.ryubing.Ryujinx-symbolic.svg',
         'org.ryujinx.Ryujinx-symbolic.svg',
@@ -1124,6 +1201,9 @@ link_files = {
         'io.github.nelson_lang.Nelson-symbolic.svg',
         'nelson-desktop-symbolic.svg',
     ],
+    'goofcord-symbolic.svg': [
+        'io.github.milkshiift.GoofCord-symbolic.svg',
+    ],
     'gimagereader-symbolic.svg': [
         'io.github.manisandro.gImageReader-symbolic.svg',
     ],
@@ -1139,8 +1219,18 @@ link_files = {
     'linux-assistant-symbolic.svg': [
         'io.github.jean28518.Linux-Assistant-symbolic.svg',
     ],
+    'input-leap-symbolic.svg': [
+        'io.github.input_leap.input-leap-symbolic.svg',
+    ],
+    'hedgemodmanager-symbolic.svg': [
+        'io.github.hedge_dev.hedgemodmanager-symbolic.svg',
+    ],
     'boxbuddyrs-symbolic.svg': [
         'io.github.dvlv.boxbuddyrs-symbolic.svg',
+    ],
+    'dosbox-staging-symbolic.svg': [
+        'io.github.dosbox-staging-symbolic.svg',
+        'org.dosbox-staging.dosbox-staging-symbolic.svg',
     ],
     'coppwr-symbolic.svg': [
         'io.github.dimtpap.coppwr-symbolic.svg',
@@ -1161,6 +1251,9 @@ link_files = {
     'GPU_Viewer-symbolic.svg': [
         'io.github.arunsivaramanneo.GPUViewer-symbolic.svg',
     ],
+    'soundux-symbolic.svg': [
+        'io.github.Soundux-symbolic.svg',
+    ],
     'opentoonz-symbolic.svg': [
         'io.github.OpenToonz-symbolic.svg',
     ],
@@ -1169,6 +1262,9 @@ link_files = {
     ],
     'frappe-books-symbolic.svg': [
         'io.frappe.books-symbolic.svg',
+    ],
+    'ente-auth-symbolic.svg': [
+        'io.ente.auth-symbolic.svg',
     ],
     'appflowy-symbolic.svg': [
         'io.appflowy.AppFlowy-symbolic.svg',
@@ -1193,6 +1289,9 @@ link_files = {
         'hp-toolbox-symbolic.svg',
         'hplip-symbolic.svg',
         'hplj1020_icon-symbolic.svg',
+    ],
+    'helium-symbolic.svg': [
+        'helium-browser-symbolic.svg',
     ],
     'hardinfo-symbolic.svg': [
         'hardinfo2-symbolic.svg',
@@ -1225,6 +1324,11 @@ link_files = {
         'godot-mono-symbolic.svg',
         'lutris_godot-engine-symbolic.svg',
         'org.godotengine.Godot-symbolic.svg',
+    ],
+    'xterm-symbolic.svg': [
+        'gnome-xterm-symbolic.svg',
+        'mini.xterm-symbolic.svg',
+        'xterm-color-symbolic.svg',
     ],
     'kruler-symbolic.svg': [
         'gnome-screenruler-symbolic.svg',
@@ -1299,6 +1403,10 @@ link_files = {
     'figma-symbolic.svg': [
         'figma-linux-symbolic.svg',
         'io.github.Figma_Linux.figma_linux-symbolic.svg',
+    ],
+    'youtube-symbolic.svg': [
+        'eu.tiliado.NuvolaAppYoutube-symbolic.svg',
+        'nuvolaplayer3_youtube-symbolic.svg',
     ],
     'betterbird-symbolic.svg': [
         'eu.betterbird.Betterbird-symbolic.svg',
@@ -1438,6 +1546,9 @@ link_files = {
     'opera-symbolic.svg': [
         'com.opera.Opera-symbolic.svg',
     ],
+    '1password-symbolic.svg': [
+        'com.onepassword.OnePassword-symbolic.svg',
+    ],
     'n-trackstudio-symbolic.svg': [
         'com.ntrack.n-track-symbolic.svg',
         'n-track-studio-symbolic.svg',
@@ -1453,9 +1564,6 @@ link_files = {
         'lutris_minecraft-symbolic.svg',
         'minecraft-launcher-symbolic.svg',
         'minecraft-pi-symbolic.svg',
-    ],
-    'ghostty-symbolic.svg': [
-        'com.mitchellh.ghostty-symbolic.svg',
     ],
     'microsoft-edge-symbolic.svg': [
         'com.microsoft.Edge-symbolic.svg',
@@ -1525,6 +1633,12 @@ link_files = {
     ],
     'lunacy-symbolic.svg': [
         'com.icons8.Lunacy-symbolic.svg',
+    ],
+    'helix-symbolic.svg': [
+        'com.helix_editor.Helix-symbolic.svg',
+    ],
+    'tauonmb-symbolic.svg': [
+        'com.github.taiko2k.tauonmb-symbolic.svg',
     ],
     'tor-browser-symbolic.svg': [
         'com.github.micahflee.torbrowser-launcher-symbolic.svg',
@@ -1596,6 +1710,7 @@ link_files = {
         'chromium-freeworld-symbolic.svg',
         'chromium-symbolic.svg',
         'com.google.Chrome-symbolic.svg',
+        'com.google.ChromeDev-symbolic.svg',
         'google-chrome2-symbolic.svg',
         'googlechrome-symbolic.svg',
         'org.chromium.Chromium-symbolic.svg',
@@ -1669,6 +1784,16 @@ link_files = {
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',
         'com.brave.Browser-symbolic.svg',
+    ],
+    'winetricks-symbolic.svg': [
+        'bottles_winetricks-symbolic.svg',
+    ],
+    'winecfg-symbolic.svg': [
+        'bottles_wine-winecfg-symbolic.svg',
+        'wine-winecfg-symbolic.svg',
+    ],
+    'wine-uninstaller-symbolic.svg': [
+        'bottles_wine-uninstaller-symbolic.svg',
     ],
     'xsane-symbolic.svg': [
         'blueman-scanner-symbolic.svg',
@@ -1765,6 +1890,10 @@ link_files = {
         'us.zoom.Zoom-symbolic.svg',
         'zoom-desktop-symbolic.svg',
         'zoom-icon-symbolic.svg',
+    ],
+    'steamvr-symbolic.svg': [
+        'application-x-vrmonitor-symbolic.svg',
+        'steam_icon_250820-symbolic.svg',
     ],
     'zoho-mail-symbolic.svg': [
         'appimagekit-zoho-mail-desktop-symbolic.svg',
@@ -1866,6 +1995,9 @@ link_files = {
         'appimagekit-github-desktop-symbolic.svg',
         'io.github.shiftey.Desktop-symbolic.svg',
     ],
+    'filendesktop-symbolic.svg': [
+        'appimagekit-filendesktop-symbolic.svg',
+    ],
     'endless-sky-symbolic.svg': [
         'appimagekit-endless_sky-symbolic.svg',
         'io.github.endless_sky.endless_sky-symbolic.svg',
@@ -1915,6 +2047,13 @@ link_files = {
     'polychromatic-symbolic.svg': [
         'app.polychromatic.controller-symbolic.svg',
         'polychromatic-controller-symbolic.svg',
+    ],
+    'legcord-symbolic.svg': [
+        'app.legcord.Legcord-symbolic.svg',
+    ],
+    'antimicrox-symbolic.svg': [
+        'antimicro-symbolic.svg',
+        'io.github.antimicrox.antimicrox-symbolic.svg',
     ],
     'androidstudio-symbolic.svg': [
         'android-studio-beta-symbolic.svg',
@@ -2013,6 +2152,10 @@ link_files = {
         'element-symbolic.svg',
         'im.riot.Riot-symbolic.svg',
     ],
+    'kakaotalk-symbolic.svg': [
+        'E51E_KakaoTalk.0-symbolic.svg',
+        'KakaoTalk-symbolic.svg',
+    ],
     'resolve-symbolic.svg': [
         'DV_Resolve-symbolic.svg',
         'davinci-resolve-symbolic.svg',
@@ -2042,6 +2185,12 @@ link_files = {
     'alacritty-symbolic.svg': [
         'Alacritty-symbolic.svg',
         'com.alacritty.Alacritty-symbolic.svg',
+    ],
+    'wine-symbolic.svg': [
+        '7765_winebrowser.0-symbolic.svg',
+        'bottles_wine-symbolic.svg',
+        'deepin-wine-assist-symbolic.svg',
+        'org.winehq.Wine-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

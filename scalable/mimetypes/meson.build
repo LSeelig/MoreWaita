@@ -3,6 +3,8 @@ scalable_mimes_iconsdir = join_paths(scalable_iconsdir, 'mimetypes')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'android-package-archive.svg',
+    'application-affinity-template.svg',
+    'application-affinity.svg',
     'application-epub+zip.svg',
     'application-illustrator.svg',
     'application-json.svg',
@@ -97,6 +99,7 @@ regular_files = [
     'text-pureDataPatch.svg',
     'text-rust.svg',
     'text-x-arduino.svg',
+    'text-x-ass.svg',
     'text-x-bibtex.svg',
     'text-x-c.svg',
     'text-x-chdr.svg',
@@ -112,6 +115,8 @@ regular_files = [
     'text-x-gettext-translation-template.svg',
     'text-x-gettext-translation.svg',
     'text-x-go.svg',
+    'text-x-gradle-kotlin.svg',
+    'text-x-gradle.svg',
     'text-x-java.svg',
     'text-x-javascript.svg',
     'text-x-julia.svg',
@@ -123,6 +128,7 @@ regular_files = [
     'text-x-maxima-out.svg',
     'text-x-maximasession.svg',
     'text-x-meson.svg',
+    'text-x-ocaml.svg',
     'text-x-octave.svg',
     'text-x-patch.svg',
     'text-x-python.svg',
@@ -150,6 +156,9 @@ link_files = {
     'text-x-tex.svg': [
         'text-x-stex.svg',
         'text-x-texinfo.svg',
+    ],
+    'text-x-ass.svg': [
+        'text-x-ssa.svg',
     ],
     'text-x-python.svg': [
         'text-x-python3.svg',
