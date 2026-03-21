@@ -1,125 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   height="128px"
-   viewBox="0 0 128 128"
-   width="128px"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="ms-todo.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   inkscape:export-filename="/home/adonnen/Pictures/Icons/ms-todo.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.296875"
-     inkscape:cx="64"
-     inkscape:cy="64"
-     inkscape:window-width="1410"
-     inkscape:window-height="871"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8"
-     showguides="false" />
-  <filter
-     id="a"
-     height="1"
-     width="1"
-     x="0"
-     y="0">
-    <feColorMatrix
-       color-interpolation-filters="sRGB"
-       values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-       id="feColorMatrix1" />
-  </filter>
-  <clipPath
-     id="b">
-    <path
-       d="m 0 0 h 128 v 128 h -128 z m 0 0"
-       id="path1" />
-  </clipPath>
-  <mask
-     id="c">
-    <g
-       filter="url(#a)"
-       id="g1">
-      <image
-         height="152"
-         transform="matrix(1 0 0 1 -8 -16)"
-         width="192"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAACYCAYAAACyAeadAAAABmJLR0QA/wD/AP+gvaeTAAAAiElEQVR4nO3BMQEAAADCoPVP7WsIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAPIpwABWLk4FQAAAABJRU5ErkJggg=="
-         id="image1" />
-    </g>
-  </mask>
-  <radialGradient
-     id="d"
-     cx="410.200989"
-     cy="853.348999"
-     gradientTransform="matrix(0.0805574 0.0805574 -0.0805574 0.0805574 96.098479 26.165087)"
-     gradientUnits="userSpaceOnUse"
-     r="85">
-    <stop
-       offset="0.5"
-       stop-opacity="0.13"
-       id="stop1" />
-    <stop
-       offset="0.994"
-       stop-opacity="0"
-       id="stop2" />
-  </radialGradient>
-  <clipPath
-     id="e">
-    <rect
-       height="152"
-       width="192"
-       id="rect2" />
-  </clipPath>
-  <clipPath
-     id="f">
-    <rect
-       height="128"
-       width="128"
-       id="rect3" />
-  </clipPath>
-  <linearGradient
-     id="g"
-     gradientUnits="userSpaceOnUse"
-     x1="40.79920162468"
-     x2="110.40054135253"
-     y1="107.2000910149"
-     y2="37.59874775538"
-     gradientTransform="translate(0,-2.0039063)">
-    <stop
-       offset="0"
-       stop-color="#2987e6"
-       id="stop3" />
-    <stop
-       offset="0.994"
-       stop-color="#58c1f5"
-       id="stop4" />
-  </linearGradient>
-  <path
-     d="M 9.421875,66.972656 25.777344,50.617188 c 1.890625,-1.890625 4.953125,-1.890625 6.84375,0 l 39.554687,39.554687 c 1.890625,1.890625 1.890625,4.957031 0,6.847657 L 55.824219,113.375 c -1.890625,1.89062 -4.957031,1.89062 -6.847657,0 L 9.421875,73.820313 c -1.890625,-1.890625 -1.890625,-4.957031 0,-6.847657 z m 0,0"
-     fill="#195abd"
-     id="path7" />
-  <path
-     d="m 102.22266,27.417969 16.35547,16.351563 c 1.89062,1.894531 1.89062,4.957031 0,6.847656 L 55.824219,113.375 c -1.890625,1.89062 -4.957031,1.89062 -6.847657,0 L 32.621094,97.019532 c -1.890625,-1.890626 -1.890625,-4.957032 0,-6.847657 L 95.378906,27.417969 c 1.890625,-1.890625 4.953124,-1.890625 6.843754,0 z m 0,0"
-     fill="url(#g)"
-     id="path8"
-     style="fill:url(#g)" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="128px" viewBox="0 0 128 128" width="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="11.999998" x2="115.999998" y1="66.000004" y2="66.000004">
+        <stop offset="0" stop-color="#8c8c8c"/>
+        <stop offset="0.0356746" stop-color="#e4e4e4"/>
+        <stop offset="0.0730247" stop-color="#8c8c8c"/>
+        <stop offset="0.926818" stop-color="#8c8c8c" stop-opacity="0.99"/>
+        <stop offset="0.960641" stop-color="#e4e4e4"/>
+        <stop offset="1" stop-color="#8c8c8c"/>
+    </linearGradient>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="48.04964874029" x2="95.90054689294" y1="85.92542501166" y2="38.07452443098">
+        <stop offset="0" stop-color="#2987e6" stop-opacity="0.8"/>
+        <stop offset="0.994" stop-color="#58c1f5" stop-opacity="0.8"/>
+    </linearGradient>
+    <path d="m 20 16 h 88 c 4.417969 0 8 3.582031 8 8 v 84 c 0 4.417969 -3.582031 8 -8 8 h -88 c -4.417969 0 -8 -3.582031 -8 -8 v -84 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="url(#a)"/>
+    <path d="m 20 12 h 88 c 4.417969 0 8 3.582031 8 8 v 84 c 0 4.417969 -3.582031 8 -8 8 h -88 c -4.417969 0 -8 -3.582031 -8 -8 v -84 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="#ffffff"/>
+    <path d="m 26.476562 59.644531 l 11.246094 -11.242187 c 1.296875 -1.300782 3.40625 -1.300782 4.707032 0 l 27.191406 27.195312 c 1.300781 1.300782 1.300781 3.40625 0 4.707032 l -11.242188 11.242187 c -1.300781 1.300781 -3.40625 1.300781 -4.707031 0 l -27.195313 -27.191406 c -1.296874 -1.300781 -1.296874 -3.410157 0 -4.710938 z m 0 0" fill="#195abd"/>
+    <path d="m 90.277344 32.453125 l 11.246094 11.242187 c 1.296874 1.300782 1.296874 3.40625 0 4.707032 l -43.144532 43.144531 c -1.300781 1.300781 -3.40625 1.300781 -4.707031 0 l -11.242187 -11.242187 c -1.300782 -1.300782 -1.300782 -3.410157 0 -4.707032 l 43.140624 -43.144531 c 1.300782 -1.300781 3.410157 -1.300781 4.707032 0 z m 0 0" fill="url(#b)"/>
 </svg>
