@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="128px" viewBox="0 0 128 128" width="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <filter id="a" height="100%" width="100%" x="0%" y="0%">
+        <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <linearGradient id="b" gradientTransform="matrix(0.232143 0 0 0.328947 -8.566925 263.826965)" gradientUnits="userSpaceOnUse" x1="88.595886" x2="536.595886" y1="-449.394012" y2="-449.394012">
+        <stop offset="0" stop-color="#0062cc"/>
+        <stop offset="0.0384615" stop-color="#3394ff"/>
+        <stop offset="0.0768555" stop-color="#007bff"/>
+        <stop offset="0.923077" stop-color="#007bff"/>
+        <stop offset="0.961538" stop-color="#409dff"/>
+        <stop offset="1" stop-color="#0062cc"/>
+    </linearGradient>
+    <mask id="c">
+        <g filter="url(#a)">
+            <rect fill-opacity="0.3" height="153.6" width="153.6" x="-12.8" y="-12.8"/>
+        </g>
+    </mask>
+    <clipPath id="d">
+        <rect height="152" width="192"/>
+    </clipPath>
+    <path d="m 20 16 h 88 c 4.417969 0 8 3.582031 8 8 v 84 c 0 4.417969 -3.582031 8 -8 8 h -88 c -4.417969 0 -8 -3.582031 -8 -8 v -84 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="url(#b)"/>
+    <path d="m 20 12 h 88 c 4.417969 0 8 3.582031 8 8 v 84 c 0 4.417969 -3.582031 8 -8 8 h -88 c -4.417969 0 -8 -3.582031 -8 -8 v -84 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="#02b3ff"/>
+    <g mask="url(#c)">
+        <g clip-path="url(#d)" transform="matrix(1 0 0 1 -8 -16)">
+            <path d="m 100.875 107.550781 c 0 4.941407 -12.929688 8.949219 -28.875 8.949219 s -28.875 -4.007812 -28.875 -8.949219 c 0 -4.941406 12.929688 -8.949219 28.875 -8.949219 s 28.875 4.007813 28.875 8.949219 z m 0 0" fill="#ffffff" fill-rule="evenodd"/>
+        </g>
+    </g>
+    <path d="m 64 23.5 c 14.453125 0 26.167969 10.890625 26.167969 24.320312 c 0 8.554688 -7.960938 22.03125 -23.886719 40.429688 c -0.09375 0.109375 -0.195312 0.210938 -0.304688 0.304688 c -1.257812 1.09375 -3.164062 0.957031 -4.257812 -0.304688 c -15.925781 -18.398438 -23.886719 -31.875 -23.886719 -40.429688 c 0 -13.429687 11.714844 -24.320312 26.167969 -24.320312 z m 0 14.640625 c -5.949219 0 -10.773438 4.589844 -10.773438 10.25 s 4.824219 10.25 10.773438 10.25 s 10.773438 -4.589844 10.773438 -10.25 s -4.824219 -10.25 -10.773438 -10.25 z m 0 0" fill="#ffffff" fill-rule="evenodd"/>
+</svg>
