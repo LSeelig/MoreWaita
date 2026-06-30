@@ -549,6 +549,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-octet-stream.svg "Binary")
 ![icon](./scalable/mimetypes/application-x-bitwig-studio.svg "Bitwig Studio")
 ![icon](./scalable/mimetypes/com.bitwig.BitwigStudio.audio-x.dawproject.svg "Bitwig Studio Project")
+![icon](./scalable/mimetypes/text-x-blp.svg "Blueprint")
 ![icon](./scalable/mimetypes/text-x-c.svg "C")
 ![icon](./scalable/mimetypes/text-x-chdr.svg "C Header")
 ![icon](./scalable/mimetypes/text-x-cpp.svg "C++")
@@ -764,6 +765,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-screencast.svg "Screencast")
 ![icon](./scalable/places/folder-screenshot.svg "Screenshot")
 ![icon](./scalable/places/folder-shell.svg "Shell")
+![icon](./scalable/places/folder-snap.svg "Snap")
 ![icon](./scalable/places/folder-syncthing.svg "Syncthing")
 ![icon](./scalable/places/folder-temp.svg "Temp")
 ![icon](./scalable/places/folder-torrent.svg "Torrent")
@@ -950,17 +952,17 @@ paru morewaita-icon-theme-git
 
 #### Fedora Linux
 
-Install via [@trixieua's COPR](https://copr.fedorainfracloud.org/coprs/trixieua/morewaita-icon-theme):
+Install via [@rivenirvana's COPR](https://copr.fedorainfracloud.org/coprs/rivenirvana/morewaita-icon-theme):
 
 ```sh
-dnf copr enable trixieua/morewaita-icon-theme && dnf install morewaita-icon-theme
+dnf copr enable rivenirvana/morewaita-icon-theme && dnf install morewaita-icon-theme
 ```
 
 #### Ubuntu/Debian Linux
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
 
-#### nixOS
+#### NixOS
 
 Install via [pkosel's package](https://search.nixos.org/packages?channel=unstable&show=morewaita-icon-theme):
 
